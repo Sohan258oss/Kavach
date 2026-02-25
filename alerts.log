@@ -1,0 +1,2370 @@
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-24 20:17:57] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Microsoft\Credentials\62EF106706C57BFDECAF5A73B18EB29D (entropy=7.931)
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-24 20:17:57] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-24 20:17:57] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-24 20:17:57] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-24 20:17:57] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-24 20:17:57] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Microsoft\Credentials\62EF106706C57BFDECAF5A73B18EB29D (entropy=7.9279)
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Microsoft\Credentials\62EF106706C57BFDECAF5A73B18EB29D (entropy=7.9279)
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-24 20:17:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-24 20:18:00] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-24 20:18:00] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-24 20:18:00] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\Production\RETAIL\704208617\b774873e868e4367dc70abca93866772 (entropy=7.8736)
+[2026-02-24 20:18:00] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-24 20:18:00] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\231a7ba36a33317a26b5db62e6b19abd\Production\RETAIL\704208617\56fd0ec0447be420537efd5732649539 (entropy=7.8924)
+[2026-02-24 20:18:00] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-24 20:18:00] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\231a7ba36a33317a26b5db62e6b19abd\Production\RETAIL\704208617\edb8f20055f0055b437e565748fd0909 (entropy=7.9177)
+[2026-02-24 20:18:00] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\Production\RETAIL\704208617\b774873e868e4367dc70abca93866772 (entropy=7.8736)
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\231a7ba36a33317a26b5db62e6b19abd\Production\RETAIL\704208617\56fd0ec0447be420537efd5732649539 (entropy=7.8924)
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\231a7ba36a33317a26b5db62e6b19abd\Production\RETAIL\704208617\edb8f20055f0055b437e565748fd0909 (entropy=7.9173)
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-24 20:18:01] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-24 20:18:02] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-24 20:18:02] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-24 20:18:02] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[AI] Prediction: Benign | Confidence: 84.0%
+[2026-02-24 20:18:05] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Microsoft\Credentials\62EF106706C57BFDECAF5A73B18EB29D (entropy=7.9279)
+[2026-02-24 20:18:05] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\231a7ba36a33317a26b5db62e6b19abd\Production\RETAIL\704208617\edb8f20055f0055b437e565748fd0909 (entropy=7.9229)
+[2026-02-24 20:18:05] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\231a7ba36a33317a26b5db62e6b19abd\Production\RETAIL\704208617\edb8f20055f0055b437e565748fd0909 (entropy=7.9229)
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\231a7ba36a33317a26b5db62e6b19abd\Production\RETAIL\704208617\505ee1b77ffe5c2b4f36df7fb1ae1d7d (entropy=7.9257)
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\Auth\231a7ba36a33317a26b5db62e6b19abd\Production\RETAIL\704208617\edb8f20055f0055b437e565748fd0909 (entropy=7.9229)
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-24 20:18:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-24 20:18:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-24 20:18:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[AI] Prediction: Benign | Confidence: 83.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 115 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 116 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 117 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 118 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 119 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 120 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 121 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 122 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 123 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 124 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 125 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 126 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 127 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 128 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 129 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 130 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 131 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 132 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 133 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 134 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 135 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 136 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 137 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 138 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 139 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 140 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 141 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 142 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 143 events in 5s
+[2026-02-24 20:18:36] ⚠️  ALERT: HIGH FILE ACTIVITY: 144 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 145 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 146 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 147 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 148 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 149 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 150 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 151 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 152 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 153 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 154 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 155 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 156 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 157 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 158 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 159 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 160 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 161 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 162 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 163 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 164 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 165 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 166 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 167 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 168 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 169 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 170 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 171 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 172 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 173 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 174 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 175 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 176 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 177 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 178 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 179 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 180 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 181 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 182 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 183 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 184 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 185 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 186 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 187 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 188 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 189 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 190 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_0.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_0.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 191 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_1.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_1.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 192 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_2.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_2.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 193 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_3.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_3.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 194 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_4.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_4.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 195 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_5.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_5.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 196 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_6.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_6.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 197 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_7.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_7.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 198 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_8.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_8.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 199 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_9.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_9.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 200 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_10.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_10.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 201 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_11.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_11.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 202 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 203 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_12.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_12.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 204 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_13.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_13.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 205 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_14.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_14.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 206 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_15.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_15.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 207 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 208 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_16.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_16.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 209 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_17.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_17.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 210 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_18.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_18.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 211 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_19.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_19.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 212 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 213 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_20.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_20.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 214 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_21.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_21.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 215 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_22.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_22.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 216 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_23.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_23.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 217 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_24.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_24.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 218 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_25.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_25.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 219 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_26.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_26.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 220 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_27.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_27.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 221 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_28.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_28.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 222 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_29.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_29.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 223 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_30.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_30.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 224 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_31.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_31.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 225 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_32.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_32.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 226 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_33.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_33.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 227 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_34.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_34.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 228 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_35.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_35.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 229 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_36.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_36.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 230 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_37.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_37.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 231 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_38.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_38.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 232 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_39.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_39.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 233 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_40.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_40.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 234 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_41.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_41.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 235 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_42.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_42.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 236 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_43.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_43.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 237 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_44.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_44.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 238 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_45.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_45.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 239 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_46.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_46.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 240 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_47.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_47.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 241 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_48.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_48.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 242 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_49.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_49.locked
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 243 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 244 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_0.enc (entropy=7.9826)
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 245 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 246 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_1.enc (entropy=7.9844)
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 247 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 248 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_2.enc (entropy=7.9795)
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 249 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 250 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_3.enc (entropy=7.9796)
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 251 events in 5s
+[2026-02-24 20:18:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 252 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_4.enc (entropy=7.9799)
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 253 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 254 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_5.enc (entropy=7.9789)
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 255 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 256 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_6.enc (entropy=7.9842)
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 257 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 258 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_7.enc (entropy=7.9826)
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 259 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 260 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_8.enc (entropy=7.9812)
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 261 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 262 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_9.enc (entropy=7.9819)
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 263 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 264 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 265 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 266 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 267 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 268 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 269 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 270 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 271 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 272 events in 5s
+[2026-02-24 20:18:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 273 events in 5s
+[2026-02-24 20:18:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 274 events in 5s
+[2026-02-24 20:18:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 275 events in 5s
+[2026-02-24 20:18:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 276 events in 5s
+[2026-02-24 20:18:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 277 events in 5s
+[2026-02-24 20:18:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 278 events in 5s
+[2026-02-24 20:18:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 279 events in 5s
+[AI] Prediction: Malware | Confidence: 64.0%
+[2026-02-24 20:18:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-24 20:18:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-24 20:18:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-24 20:18:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-24 20:18:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-24 20:18:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-24 20:18:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[AI] Prediction: Benign | Confidence: 97.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-24 22:15:46] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03ec99 (entropy=7.9935)
+[AI] Prediction: Benign | Confidence: 99.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-24 22:18:08] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03ec9a (entropy=7.987)
+[AI] Prediction: Benign | Confidence: 99.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-24 22:18:27] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\6D1250F74FB51BBAB267847C2E297FB42604E3C9\contactsState.db-wal (entropy=7.9995)
+[2026-02-24 22:18:27] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\6D1250F74FB51BBAB267847C2E297FB42604E3C9\abprops.db-wal (entropy=7.9992)
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-24 22:22:19] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03ec9b (entropy=7.9636)
+[2026-02-24 22:22:19] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03ec9c (entropy=7.9737)
+[2026-02-24 22:22:20] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03ec9d (entropy=7.9619)
+[2026-02-24 22:22:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03ec9e (entropy=7.8904)
+[2026-02-24 22:22:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03ec9f (entropy=7.9554)
+[2026-02-24 22:22:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03eca0 (entropy=7.8615)
+[2026-02-24 22:22:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03eca1 (entropy=7.8878)
+[2026-02-24 22:22:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03eca2 (entropy=7.9557)
+[2026-02-24 22:22:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03eca3 (entropy=7.9972)
+[AI] Prediction: Benign | Confidence: 96.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 21:56:53] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\6D1250F74FB51BBAB267847C2E297FB42604E3C9\abprops.db-wal (entropy=7.9992)
+[AI] Prediction: Benign | Confidence: 99.0%
+[2026-02-25 21:56:53] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\6D1250F74FB51BBAB267847C2E297FB42604E3C9\contactsState.db-wal (entropy=7.9995)
+[2026-02-25 21:56:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 115 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 116 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 117 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 118 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 119 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 120 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 121 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 122 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 123 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 124 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 125 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 126 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 127 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 128 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 129 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 130 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 131 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 132 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 133 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 134 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 135 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 136 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 137 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 138 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 139 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 140 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 141 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 142 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 143 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 144 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 145 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 146 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 147 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 148 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 149 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 150 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 151 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 152 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 153 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 154 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 155 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 156 events in 5s
+[AI] Prediction: Benign | Confidence: 85.0%
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 157 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 158 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 159 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 160 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 161 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 162 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 163 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_0.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_0.locked
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 164 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_1.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_1.locked
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 165 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_2.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_2.locked
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 166 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_3.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_3.locked
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 167 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_4.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_4.locked
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 168 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 169 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_5.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_5.locked
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 170 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 171 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 172 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 173 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 174 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 175 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 176 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 177 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_6.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_6.locked
+[2026-02-25 21:56:58] ⚠️  ALERT: HIGH FILE ACTIVITY: 178 events in 5s
+[2026-02-25 21:56:58] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_7.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_7.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 179 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 180 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_8.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_8.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 181 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_9.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_9.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 182 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_10.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_10.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 183 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_11.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_11.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 184 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_12.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_12.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 185 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_13.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_13.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 186 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_14.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_14.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 187 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_15.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_15.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 188 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 189 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_16.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_16.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 190 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_17.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_17.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 191 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_18.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_18.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 192 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_19.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_19.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 193 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_20.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_20.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 194 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_21.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_21.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 195 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_22.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_22.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 196 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_23.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_23.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 197 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_24.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_24.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 198 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_25.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_25.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 199 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_26.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_26.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 200 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_27.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_27.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 201 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_28.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_28.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 202 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_29.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_29.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 203 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 204 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 205 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 206 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_30.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_30.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 207 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_31.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_31.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 208 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_32.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_32.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 209 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_33.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_33.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 210 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 211 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_34.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_34.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 212 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_35.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_35.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 213 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_36.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_36.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 214 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_37.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_37.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 215 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_38.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_38.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 216 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_39.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_39.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 217 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_40.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_40.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 218 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_41.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_41.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 219 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_42.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_42.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 220 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_43.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_43.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 221 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_44.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_44.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 222 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_45.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_45.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 223 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_46.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_46.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 224 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_47.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_47.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 225 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_48.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_48.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 226 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: SUSPICIOUS RENAME: C:/Users\Sohan\Desktop\test_ransomware_simulation\document_49.txt → C:/Users\Sohan\Desktop\test_ransomware_simulation\document_49.locked
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 227 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 228 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_0.enc (entropy=7.9834)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 229 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 230 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_1.enc (entropy=7.9819)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 231 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 232 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_2.enc (entropy=7.9834)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 233 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 234 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_3.enc (entropy=7.9821)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 235 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 236 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_4.enc (entropy=7.9811)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 237 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 238 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_5.enc (entropy=7.9819)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 239 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 240 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_6.enc (entropy=7.9829)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 241 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 242 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_7.enc (entropy=7.9839)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 243 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 244 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_8.enc (entropy=7.9819)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 245 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 246 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\Desktop\test_ransomware_simulation\encrypted_9.enc (entropy=7.984)
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 247 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 248 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 249 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 250 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 251 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 252 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 253 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 254 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 255 events in 5s
+[2026-02-25 21:56:59] ⚠️  ALERT: HIGH FILE ACTIVITY: 256 events in 5s
+[2026-02-25 21:57:00] ⚠️  ALERT: HIGH FILE ACTIVITY: 257 events in 5s
+[2026-02-25 21:57:00] ⚠️  ALERT: HIGH FILE ACTIVITY: 258 events in 5s
+[AI] Prediction: Malware | Confidence: 65.0%
+[2026-02-25 21:57:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 21:57:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 21:57:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 21:57:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 21:57:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[AI] Prediction: Benign | Confidence: 97.0%
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 21:57:14] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 21:57:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 21:57:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 21:57:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 21:57:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 21:57:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 21:57:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 21:57:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 21:57:17] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 21:57:17] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 21:57:17] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 21:57:17] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[AI] Prediction: Benign | Confidence: 97.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 21:58:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 21:58:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 21:58:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 21:58:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 21:58:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[AI] Prediction: Benign | Confidence: 97.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 21:59:04] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 21:59:05] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 21:59:06] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 21:59:07] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[AI] Prediction: Benign | Confidence: 97.0%
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 21:59:15] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 21:59:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 21:59:16] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[AI] Prediction: Benign | Confidence: 96.0%
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 21:59:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 21:59:26] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[AI] Prediction: Benign | Confidence: 95.0%
+[2026-02-25 21:59:31] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dd856631-b98b-4d37-b1d8-d789e3f1b406\9ec558053fe2ebaa_0 (entropy=7.9703)
+[AI] Prediction: Benign | Confidence: 99.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 21:59:49] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\Cache\Cache_Data\f_000647 (entropy=7.9965)
+[AI] Prediction: Benign | Confidence: 99.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 22:01:20] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\EBWebView\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\018575.ldb (entropy=7.2323)
+[AI] Prediction: Benign | Confidence: 99.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 115 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 116 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 117 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 118 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 119 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 120 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 121 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 122 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 123 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 124 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 125 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 126 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 127 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 128 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 129 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 130 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 131 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 132 events in 5s
+[2026-02-25 22:01:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 133 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 134 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 135 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 136 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 137 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 138 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 139 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 140 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 141 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 142 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 143 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 144 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 145 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 146 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 147 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 148 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 149 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 150 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 151 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 152 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 153 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 154 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 155 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 156 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 157 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 158 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 159 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 160 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 161 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 162 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 163 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 164 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 165 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 166 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 167 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 168 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 169 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 170 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 171 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 172 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 173 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 174 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 175 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 176 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 177 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 178 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 179 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 180 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 181 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 182 events in 5s
+[2026-02-25 22:01:43] ⚠️  ALERT: HIGH FILE ACTIVITY: 183 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 184 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 185 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 186 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 187 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 188 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 189 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 190 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 191 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 192 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 193 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 194 events in 5s
+[2026-02-25 22:01:44] ⚠️  ALERT: HIGH FILE ACTIVITY: 195 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Microsoft\Credentials\62EF106706C57BFDECAF5A73B18EB29D (entropy=7.9295)
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 196 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 197 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 198 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 199 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 200 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 201 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 202 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 203 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 204 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 205 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 206 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 207 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 208 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 209 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 210 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 211 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 212 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 213 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 214 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 215 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 216 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 217 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 218 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 219 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 220 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 221 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 222 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 223 events in 5s
+[2026-02-25 22:01:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 224 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 225 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 226 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\Cache_Data\f_000001 (entropy=7.9987)
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 227 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 228 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 229 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 230 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 231 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 232 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 233 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 234 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 235 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 236 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 237 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 238 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 239 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\LocalState\EBWebView\SmartScreen\RemoteData\topTraffic_638004170464094982 (entropy=7.9996)
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 240 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 241 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\Cache_Data\f_000002 (entropy=7.9988)
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 242 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 243 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 244 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 245 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 246 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 247 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 248 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 249 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 250 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 251 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\Cache_Data\f_000003 (entropy=7.9972)
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 252 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 253 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 254 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 255 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\Cache_Data\f_000004 (entropy=7.9946)
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 256 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 257 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 258 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 259 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 260 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 261 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 262 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 263 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 264 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 265 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 266 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 267 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 268 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 269 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 270 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 271 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 272 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 273 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 274 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 275 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 276 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 277 events in 5s
+[AI] Prediction: Benign | Confidence: 83.0%
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 278 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 279 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 280 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 281 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 282 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 283 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 284 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 285 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 286 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 287 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 288 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 289 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 290 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 291 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 292 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 293 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\Cache_Data\f_000005 (entropy=7.9947)
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 294 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 295 events in 5s
+[2026-02-25 22:01:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 296 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 297 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 298 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 299 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 300 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 301 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 302 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 303 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 304 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 305 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 306 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 307 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 308 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\Cache_Data\f_000006 (entropy=7.9892)
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 309 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 310 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 311 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 312 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 313 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 314 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 315 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 316 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 317 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 318 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 319 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 320 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 321 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 322 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 323 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 324 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 325 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 326 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 327 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 328 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 329 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 330 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 331 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 332 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 333 events in 5s
+[2026-02-25 22:01:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 334 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-25 22:01:50] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 115 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 116 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 117 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 118 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 119 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 120 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 121 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 122 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 123 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 124 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 125 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 126 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 127 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 128 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 129 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 130 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 131 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 132 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 133 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 134 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 135 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 136 events in 5s
+[AI] Prediction: Benign | Confidence: 83.0%
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 137 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 138 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 139 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 140 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 141 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 142 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 143 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 144 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 145 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 146 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 147 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 148 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 149 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 150 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 151 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 152 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 153 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 154 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 155 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 156 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 157 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 158 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 159 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 160 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 161 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 162 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 163 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 164 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 165 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 166 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 167 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 168 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 169 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 170 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 171 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 172 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 173 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 174 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 175 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 176 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 177 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 178 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 179 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 180 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 181 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 182 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 183 events in 5s
+[2026-02-25 22:01:52] ⚠️  ALERT: HIGH FILE ACTIVITY: 184 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 185 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 186 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 187 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 188 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 189 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 190 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 191 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 192 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 193 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 194 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 195 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 196 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 197 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 198 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 199 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 200 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 201 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 202 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 203 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 204 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 205 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 206 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 207 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 208 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 209 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 210 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 211 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 212 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 213 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 214 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 215 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 216 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 217 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 218 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 219 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 220 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 221 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 222 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 223 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 224 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 225 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 226 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 227 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 228 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 229 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 230 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 231 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 232 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 233 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 234 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 235 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 236 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 237 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 238 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 239 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 240 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 241 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 242 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 243 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 244 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 245 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 246 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 247 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 248 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 249 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 250 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 251 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 252 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 253 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 254 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 255 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 256 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 257 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 258 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 259 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 260 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 261 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 262 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 263 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 264 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 265 events in 5s
+[2026-02-25 22:01:53] ⚠️  ALERT: HIGH FILE ACTIVITY: 266 events in 5s
+[2026-02-25 22:01:54] ⚠️  ALERT: HIGH FILE ACTIVITY: 267 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 268 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 269 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 270 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 271 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 272 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 273 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 274 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 275 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 276 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 277 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 278 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 279 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 280 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 281 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 282 events in 5s
+[2026-02-25 22:01:55] ⚠️  ALERT: HIGH FILE ACTIVITY: 283 events in 5s
+[AI] Prediction: Benign | Confidence: 94.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:02:09] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:02:10] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:02:10] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:02:10] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[AI] Prediction: Benign | Confidence: 97.0%
+[2026-02-25 22:02:19] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f328 (entropy=7.9994)
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f329 (entropy=7.9993)
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[AI] Prediction: Benign | Confidence: 84.0%
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:02:20] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f32a (entropy=7.9948)
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f32b (entropy=7.9965)
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f32c (entropy=7.9973)
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f32d (entropy=7.9995)
+[2026-02-25 22:02:21] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 22:02:22] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f32e (entropy=7.9897)
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 115 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 116 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 117 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 118 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 119 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 120 events in 5s
+[2026-02-25 22:02:23] ⚠️  ALERT: HIGH FILE ACTIVITY: 121 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 122 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 123 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 124 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 125 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 126 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 127 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 128 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 129 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 130 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 131 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 132 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 133 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 134 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 135 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 136 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 137 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f32f (entropy=7.9948)
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 138 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 139 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 140 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 141 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 142 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 143 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 144 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 145 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 146 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 147 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 148 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 149 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 150 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 151 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 152 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 153 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 154 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 155 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f330 (entropy=7.9896)
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 156 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 157 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 158 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 159 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 160 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 161 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 162 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 163 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 164 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 165 events in 5s
+[2026-02-25 22:02:25] ⚠️  ALERT: HIGH FILE ACTIVITY: 166 events in 5s
+[AI] Prediction: Benign | Confidence: 83.0%
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f331 (entropy=7.9958)
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 22:02:27] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 22:02:28] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 22:02:28] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 22:02:29] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 22:02:29] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-25 22:02:30] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[AI] Prediction: Benign | Confidence: 85.0%
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f332 (entropy=7.997)
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f333 (entropy=7.997)
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f334 (entropy=7.992)
+[AI] Prediction: Benign | Confidence: 84.0%
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:02:37] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:02:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:02:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:02:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:02:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:02:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 22:02:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[AI] Prediction: Benign | Confidence: 96.0%
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 115 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 116 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 117 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 118 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 119 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 120 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 121 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 122 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 123 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 124 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 125 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 126 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 127 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 128 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 129 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 130 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 131 events in 5s
+[2026-02-25 22:02:45] ⚠️  ALERT: HIGH FILE ACTIVITY: 132 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 133 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 134 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 135 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 136 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 137 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 138 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 139 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 140 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 141 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 142 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 143 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 144 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 145 events in 5s
+[2026-02-25 22:02:46] ⚠️  ALERT: HIGH FILE ACTIVITY: 146 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 147 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 148 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 149 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 150 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 151 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 152 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 153 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 154 events in 5s
+[2026-02-25 22:02:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 155 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 156 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 157 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 158 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 159 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 160 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 161 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 162 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 163 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 164 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 165 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 166 events in 5s
+[2026-02-25 22:02:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 167 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 168 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 169 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 170 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 171 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 172 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 173 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 174 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 175 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 176 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 177 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 178 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 179 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 180 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 181 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 182 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 183 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 184 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 185 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 186 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 187 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 188 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 189 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 190 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 191 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 192 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 193 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 194 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 195 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 196 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 197 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 198 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 199 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 200 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 201 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 202 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 203 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 204 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 205 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 206 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 207 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 208 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 209 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 210 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 211 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 212 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 213 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 214 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 215 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 216 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 217 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 218 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 219 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 220 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 221 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 222 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 223 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 224 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 225 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 226 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 227 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 228 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 229 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 230 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 231 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 232 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 233 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 234 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 235 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 236 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 237 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 238 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 239 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 240 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 241 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 242 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 243 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 244 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 245 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 246 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 247 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 248 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 249 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 250 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 251 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 252 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 253 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 254 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 255 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 256 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 257 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 258 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 259 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 260 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 261 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 262 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 263 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 264 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 265 events in 5s
+[2026-02-25 22:02:49] ⚠️  ALERT: HIGH FILE ACTIVITY: 266 events in 5s
+[AI] Prediction: Benign | Confidence: 94.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[AI] Prediction: Benign | Confidence: 100.0%
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f337 (entropy=7.9903)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f338 (entropy=7.9972)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f339 (entropy=7.9899)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f33a (entropy=7.9941)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f33b (entropy=7.9969)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f33c (entropy=7.9926)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f33d (entropy=7.9911)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f33e (entropy=7.9933)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f33f (entropy=7.996)
+[2026-02-25 22:03:32] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f340 (entropy=7.9921)
+[2026-02-25 22:03:33] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f341 (entropy=7.9903)
+[AI] Prediction: Benign | Confidence: 84.0%
+[2026-02-25 22:03:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:03:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:03:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:03:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:03:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:03:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:03:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:03:38] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f342 (entropy=7.9942)
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f343 (entropy=7.9976)
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f344 (entropy=7.9971)
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f345 (entropy=7.9963)
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f346 (entropy=7.988)
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 115 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 116 events in 5s
+[2026-02-25 22:03:39] ⚠️  ALERT: HIGH FILE ACTIVITY: 117 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 118 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 119 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 120 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 121 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 122 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 123 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 124 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 125 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 126 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 127 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 128 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 129 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 130 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 131 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 132 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 133 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 134 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 135 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 136 events in 5s
+[2026-02-25 22:03:40] ⚠️  ALERT: HIGH FILE ACTIVITY: 137 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f347 (entropy=7.997)
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 138 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 139 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 140 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 141 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 142 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 143 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 144 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 145 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 146 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 147 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 148 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 149 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 150 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 151 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 152 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 153 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 154 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 155 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 156 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 157 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 158 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 159 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 160 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 161 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 162 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f348 (entropy=7.9905)
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 163 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 164 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 165 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 166 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 167 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 168 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 169 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 170 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 171 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 172 events in 5s
+[2026-02-25 22:03:41] ⚠️  ALERT: HIGH FILE ACTIVITY: 173 events in 5s
+[2026-02-25 22:03:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 174 events in 5s
+[2026-02-25 22:03:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 175 events in 5s
+[2026-02-25 22:03:42] ⚠️  ALERT: HIGH FILE ACTIVITY: 176 events in 5s
+[AI] Prediction: Benign | Confidence: 83.0%
+[2026-02-25 22:03:46] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f349 (entropy=7.9951)
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 50 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 51 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 52 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 53 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 54 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 55 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 56 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 57 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 58 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 59 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 60 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 61 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 62 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 63 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 64 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 65 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 66 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 67 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 68 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 69 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 70 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 71 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 72 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 73 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 74 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 75 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 76 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 77 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 78 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 79 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 80 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 81 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 82 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 83 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 84 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 85 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 86 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 87 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 88 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 89 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 90 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 91 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 92 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 93 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 94 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 95 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 96 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 97 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 98 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 99 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 100 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 101 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 102 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 103 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 104 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 105 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 106 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 107 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 108 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 109 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 110 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 111 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 112 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 113 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 114 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 115 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 116 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 117 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 118 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 119 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 120 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 121 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 122 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 123 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 124 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH FILE ACTIVITY: 125 events in 5s
+[2026-02-25 22:03:47] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f34a (entropy=7.9905)
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 126 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 127 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 128 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f34b (entropy=7.9891)
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 129 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 130 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 131 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 132 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 133 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 134 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 135 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 136 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 137 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 138 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 139 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 140 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 141 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 142 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 143 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 144 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 145 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 146 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 147 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 148 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 149 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 150 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 151 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 152 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 153 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 154 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 155 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 156 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 157 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 158 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 159 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 160 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 161 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f34c (entropy=7.9846)
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 162 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 163 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 164 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 165 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 166 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 167 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 168 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 169 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 170 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 171 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 172 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 173 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 174 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 175 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 176 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 177 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 178 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 179 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 180 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 181 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 182 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 183 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 184 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 185 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 186 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 187 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 188 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 189 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 190 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 191 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 192 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 193 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 194 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 195 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f34d (entropy=7.994)
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 196 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 197 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 198 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 199 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 200 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 201 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 202 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 203 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 204 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 205 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 206 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 207 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 208 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 209 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 210 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 211 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 212 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 213 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 214 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 215 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 216 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 217 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 218 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 219 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH ENTROPY FILE: C:/Users\Sohan\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\f_03f34e (entropy=7.9972)
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 220 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 221 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 222 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 223 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 224 events in 5s
+[2026-02-25 22:03:48] ⚠️  ALERT: HIGH FILE ACTIVITY: 225 events in 5s
+[AI] Prediction: Benign | Confidence: 83.0%
+[AI] Prediction: Benign | Confidence: 100.0%
