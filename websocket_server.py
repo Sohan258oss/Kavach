@@ -5,10 +5,22 @@ from collections import deque
 
 connected_clients = set()
 alert_queue = deque()
+current_stats = {}
 
 async def handler(websocket):
     print(f"[*] New client connected: {websocket.remote_address}")
     connected_clients.add(websocket)
+
+    # Send current stats to new client
+    if current_stats:
+        try:
+            await websocket.send(json.dumps({
+                'type': 'stats',
+                'stats': current_stats
+            }))
+        except Exception as e:
+            print(f"[!] Error sending initial stats: {e}")
+
     try:
         await websocket.wait_closed()
     except Exception as e:
@@ -18,6 +30,9 @@ async def handler(websocket):
         print(f"[*] Client disconnected: {websocket.remote_address}")
 
 async def queue_alert(data: dict):
+    if data.get('type') == 'stats':
+        global current_stats
+        current_stats = data.get('stats', {})
     alert_queue.append(data)
 
 async def process_queue():
@@ -39,7 +54,12 @@ async def process_queue():
 
 async def start_server():
     print("[*] Starting WebSocket server on 0.0.0.0:8765")
-    async with websockets.serve(handler, "0.0.0.0", 8765):
-        print("[*] WebSocket server is running")
-        asyncio.create_task(process_queue())
-        await asyncio.Future()
+    try:
+        # Using reuse_address to help with quick restarts
+        async with websockets.serve(handler, "0.0.0.0", 8765, reuse_address=True):
+            print("[*] WebSocket server is running")
+            asyncio.create_task(process_queue())
+            await asyncio.Future()
+    except Exception as e:
+        print(f"[!!!] Could not start WebSocket server: {e}")
+        raise

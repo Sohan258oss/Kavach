@@ -828,14 +828,15 @@
   setInterval(updateClock, 1000);
   updateClock();
 
-  // Process alert queue every 500ms to slow down updates
+  // Process alert queue every 1000ms to slow down updates and prevent flickering
   setInterval(() => {
-    if (alertQueue.length > 0) {
+    // Process up to 3 alerts at a time to stay current without overwhelming the user
+    for (let i = 0; i < 3 && alertQueue.length > 0; i++) {
       const data = alertQueue.shift();
       if (data.type === 'alert') addAlert(data.alertType, data.message);
       if (data.type === 'entropy') addEntropyFile(data.filename, data.entropy);
     }
-  }, 500);
+  }, 1000);
 
   // ── THREAT LEVEL ───────────────────────────────────────────────
   function setThreatLevel(level, aiLabel, confidence) {
@@ -1030,6 +1031,25 @@
     });
   }
 
+  function updateStats(stats) {
+    if (!stats) return;
+
+    // Sync local state with backend stats
+    state.totalAlerts = stats.total_alerts || 0;
+    state.entropyFiles = stats.high_entropy_files || 0;
+    state.renames = stats.suspicious_renames || 0;
+    state.aiScans = (stats.ransomware_predictions || 0) + (stats.benign_predictions || 0);
+
+    // Update UI counters
+    document.getElementById('statAlerts').textContent = state.totalAlerts;
+    document.getElementById('alertCount').textContent = state.totalAlerts + ' EVENTS';
+    document.getElementById('statEntropy').textContent = state.entropyFiles;
+    document.getElementById('statRenames').textContent = state.renames;
+    document.getElementById('statScans').textContent = state.aiScans;
+
+    updateThreatLevel();
+  }
+
   function updateThreatLevel() {
     let level = 'low';
     if (state.renames > 5 || state.entropyFiles > 3) level = 'medium';
@@ -1064,6 +1084,7 @@
       }
       if (data.type === 'prediction') addPrediction(data.label, data.confidence, data.features);
       if (data.type === 'process') updateProcesses(data.processes);
+      if (data.type === 'stats') updateStats(data.stats);
     };
 
     ws.onclose = (e) => {

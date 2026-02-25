@@ -2,8 +2,9 @@ import os
 import time
 import shutil
 
-# Create a test folder
-TEST_FOLDER = "C:/Users/Sohan/Desktop/test_ransomware_simulation"
+# Create a test folder inside the watched directory
+WATCH_PATH = os.getenv("WATCH_PATH", "./watch_dir")
+TEST_FOLDER = os.path.join(WATCH_PATH, "test_simulation")
 os.makedirs(TEST_FOLDER, exist_ok=True)
 
 print("[*] Creating test files...")

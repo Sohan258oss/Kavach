@@ -25,6 +25,7 @@ def predict(features: dict) -> dict:
     Takes a dict of behavioral features, returns prediction.
     features: dict with keys matching FEATURES list
     """
+    print(f"[AI] Analyzing features: {features}")
     values = [features.get(f, 0) for f in FEATURES]
     X = pd.DataFrame([values], columns=FEATURES)
     

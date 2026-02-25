@@ -21,16 +21,20 @@ def start_ws():
 ws_thread = threading.Thread(target=start_ws, daemon=True)
 ws_thread.start()
 
-WATCH_PATH = "C:/Users"
+WATCH_PATH = os.getenv("WATCH_PATH", "./watch_dir")
+if not os.path.exists(WATCH_PATH):
+    os.makedirs(WATCH_PATH)
 LOG_FILE = "alerts.log"
 
+stop_event = threading.Event()
 alerts = []
 stats = {
     'total_alerts': 0,
     'ransomware_predictions': 0,
     'benign_predictions': 0,
     'processes_killed': 0,
-    'high_entropy_files': 0
+    'high_entropy_files': 0,
+    'suspicious_renames': 0
 }
 
 behavior_window = {
@@ -58,6 +62,7 @@ def handle_alert(message):
     if 'RENAME' in msg_upper:
         behavior_window['files_malicious'] += 10
         behavior_window['processes_malicious'] += 2
+        stats['suspicious_renames'] += 1
     if 'ENTROPY' in msg_upper:
         behavior_window['files_suspicious'] += 10
         behavior_window['files_malicious'] += 8
@@ -78,6 +83,12 @@ def handle_alert(message):
         'type': 'alert',
         'alertType': alert_type,
         'message': message
+    }), loop)
+
+    # Sync stats to frontend
+    asyncio.run_coroutine_threadsafe(queue_alert({
+        'type': 'stats',
+        'stats': dict(stats)
     }), loop)
 
     # Special handling for entropy to update the entropy monitor in real-time
@@ -105,7 +116,7 @@ def kill_suspicious_process(name):
             pass
 
 def run_ai_prediction():
-    while True:
+    while not stop_event.is_set():
         time.sleep(5)
         result = predict(behavior_window)
 
@@ -133,11 +144,18 @@ def run_ai_prediction():
             'features': dict(behavior_window)
         }), loop)
 
+        # Broadcast overall stats
+        asyncio.run_coroutine_threadsafe(queue_alert({
+            'type': 'stats',
+            'stats': dict(stats)
+        }), loop)
+
+        # Decaying window instead of hard reset
         for key in behavior_window:
-            behavior_window[key] = 0
+            behavior_window[key] = int(behavior_window[key] * 0.5)
 
 def process_monitor_loop():
-    while True:
+    while not stop_event.is_set():
         processes = []
         for proc in psutil.process_iter(['pid', 'name', 'cpu_percent']):
             try:
@@ -159,7 +177,7 @@ def process_monitor_loop():
         time.sleep(3)
 
 def print_dashboard():
-    while True:
+    while not stop_event.is_set():
         time.sleep(60)
         threat_level = "🟢 LOW"
         if stats['ransomware_predictions'] > 0:
@@ -210,6 +228,7 @@ if __name__ == "__main__":
         while True:
             time.sleep(1)
     except KeyboardInterrupt:
+        stop_event.set()
         observer.stop()
         print("\n[*] System stopped.")
         print(f"[*] All alerts saved to: {LOG_FILE}")
