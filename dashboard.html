@@ -858,7 +858,7 @@
     text.textContent = level.toUpperCase();
 
     const isMalware = aiLabel === 'MALWARE';
-    aiResult.textContent = aiLabel;
+    aiResult.textContent = isMalware ? "MALICIOUS ACTIVITY DETECTED" : "SYSTEM SAFE - NO THREATS";
     aiResult.className = 'ai-result' + (isMalware ? ' malware' : '');
     fill.className = 'confidence-fill' + (isMalware ? ' malware' : '');
     fill.style.width = confidence + '%';
@@ -910,10 +910,11 @@
       </div>
     `;
 
-    feed.insertBefore(item, feed.firstChild);
+    feed.appendChild(item);
+    feed.scrollTop = feed.scrollHeight;
 
     // Keep max 100 items
-    while (feed.children.length > 100) feed.removeChild(feed.lastChild);
+    while (feed.children.length > 100) feed.removeChild(feed.firstChild);
 
     // Update threat level
     updateThreatLevel();
@@ -961,21 +962,31 @@
 
     const isMalware = label.toUpperCase() === 'MALWARE';
     const now = new Date().toLocaleTimeString('en-US', { hour12: false });
+    const description = isMalware
+        ? "Warning: Ransomware-like behavior detected! Multiple suspicious file modifications and high entropy writes observed."
+        : "System state appears normal. No immediate ransomware threats detected by the AI model.";
 
     const item = document.createElement('div');
     item.className = `prediction-item ${isMalware ? 'malware' : ''}`;
+    item.style.flexDirection = 'column';
+    item.style.alignItems = 'flex-start';
     item.innerHTML = `
-      <div>
-        <div class="pred-label ${isMalware ? 'malware' : 'benign'}">${label.toUpperCase()}</div>
-        <div class="pred-time">${now}</div>
-      </div>
-      <div style="text-align:right">
-        <div class="pred-conf">${confidence}% confidence</div>
-        <div style="margin-top:6px">
-          <div style="width:80px;height:3px;background:var(--border);border-radius:2px;overflow:hidden">
-            <div style="height:100%;width:${confidence}%;background:${isMalware ? 'var(--red)' : 'var(--green)'};border-radius:2px;transition:width 0.5s"></div>
+      <div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 8px;">
+        <div>
+          <div class="pred-label ${isMalware ? 'malware' : 'benign'}">${label.toUpperCase()}</div>
+          <div class="pred-time">${now}</div>
+        </div>
+        <div style="text-align:right">
+          <div class="pred-conf">${confidence}% confidence</div>
+          <div style="margin-top:6px">
+            <div style="width:80px;height:3px;background:var(--border);border-radius:2px;overflow:hidden">
+              <div style="height:100%;width:${confidence}%;background:${isMalware ? 'var(--red)' : 'var(--green)'};border-radius:2px;transition:width 0.5s"></div>
+            </div>
           </div>
         </div>
+      </div>
+      <div style="font-size: 11px; color: var(--text); line-height: 1.4; border-top: 1px solid var(--border); width: 100%; margin-top: 4px; padding-top: 8px;">
+        ${description}
       </div>
     `;
 
