@@ -16,665 +16,200 @@
     --yellow: #ffd700;
     --green: #00ff88;
     --orange: #ff6b00;
+    --purple: #bf5fff;
     --text: #a0c8d8;
     --text-dim: #3a6070;
     --glow-cyan: 0 0 20px rgba(0,245,255,0.4);
     --glow-red: 0 0 20px rgba(255,32,82,0.5);
     --glow-green: 0 0 20px rgba(0,255,136,0.4);
+    --glow-purple: 0 0 20px rgba(191,95,255,0.4);
+    --glow-yellow: 0 0 20px rgba(255,215,0,0.4);
   }
-
   * { margin: 0; padding: 0; box-sizing: border-box; }
-
   body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Exo 2', sans-serif;
-    min-height: 100vh;
-    overflow-x: hidden;
+    background: var(--bg); color: var(--text);
+    font-family: 'Exo 2', sans-serif; min-height: 100vh; overflow-x: hidden;
   }
-
-  /* Scanline effect */
   body::before {
-    content: '';
-    position: fixed;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background: repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(0,245,255,0.015) 2px,
-      rgba(0,245,255,0.015) 4px
-    );
-    pointer-events: none;
-    z-index: 1000;
+    content: ''; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,245,255,0.015) 2px, rgba(0,245,255,0.015) 4px);
+    pointer-events: none; z-index: 1000;
   }
-
-  /* Grid background */
   body::after {
-    content: '';
-    position: fixed;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background-image:
-      linear-gradient(rgba(0,245,255,0.03) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(0,245,255,0.03) 1px, transparent 1px);
-    background-size: 40px 40px;
-    pointer-events: none;
-    z-index: 0;
+    content: ''; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background-image: linear-gradient(rgba(0,245,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(0,245,255,0.03) 1px, transparent 1px);
+    background-size: 40px 40px; pointer-events: none; z-index: 0;
   }
-
-  .container {
-    position: relative;
-    z-index: 1;
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 20px;
-  }
+  .container { position: relative; z-index: 1; max-width: 1400px; margin: 0 auto; padding: 20px; }
 
   /* HEADER */
-  header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 20px 0 30px;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 30px;
-  }
+  header { display: flex; align-items: center; justify-content: space-between; padding: 20px 0 30px; border-bottom: 1px solid var(--border); margin-bottom: 30px; }
+  .logo { display: flex; align-items: center; gap: 16px; }
+  .logo-icon { width: 48px; height: 48px; border: 2px solid var(--cyan); display: flex; align-items: center; justify-content: center; font-size: 22px; box-shadow: var(--glow-cyan); animation: pulse-border 2s ease-in-out infinite; clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); background: rgba(0,245,255,0.05); }
+  @keyframes pulse-border { 0%, 100% { box-shadow: var(--glow-cyan); } 50% { box-shadow: 0 0 40px rgba(0,245,255,0.7); } }
+  .logo-text h1 { font-family: 'Orbitron', monospace; font-size: 28px; font-weight: 900; color: var(--cyan); letter-spacing: 6px; text-shadow: var(--glow-cyan); }
+  .logo-text p { font-family: 'Share Tech Mono', monospace; font-size: 11px; color: var(--text-dim); letter-spacing: 3px; text-transform: uppercase; margin-top: 2px; }
+  .header-right { display: flex; align-items: center; gap: 30px; }
+  .status-indicator { display: flex; align-items: center; gap: 8px; font-family: 'Share Tech Mono', monospace; font-size: 12px; letter-spacing: 2px; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); box-shadow: var(--glow-green); animation: blink 1.5s ease-in-out infinite; }
+  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+  .clock { font-family: 'Orbitron', monospace; font-size: 14px; color: var(--cyan); letter-spacing: 2px; }
 
-  .logo {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-  }
-
-  .logo-icon {
-    width: 48px;
-    height: 48px;
-    border: 2px solid var(--cyan);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 22px;
-    box-shadow: var(--glow-cyan);
-    animation: pulse-border 2s ease-in-out infinite;
-    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-    background: rgba(0,245,255,0.05);
-  }
-
-  @keyframes pulse-border {
-    0%, 100% { box-shadow: var(--glow-cyan); }
-    50% { box-shadow: 0 0 40px rgba(0,245,255,0.7); }
-  }
-
-  .logo-text h1 {
-    font-family: 'Orbitron', monospace;
-    font-size: 28px;
-    font-weight: 900;
-    color: var(--cyan);
-    letter-spacing: 6px;
-    text-shadow: var(--glow-cyan);
-  }
-
-  .logo-text p {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 11px;
-    color: var(--text-dim);
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    margin-top: 2px;
-  }
-
-  .header-right {
-    display: flex;
-    align-items: center;
-    gap: 30px;
-  }
-
-  .status-indicator {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 12px;
-    letter-spacing: 2px;
-  }
-
-  .status-dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--green);
-    box-shadow: var(--glow-green);
-    animation: blink 1.5s ease-in-out infinite;
-  }
-
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
-  }
-
-  .clock {
-    font-family: 'Orbitron', monospace;
-    font-size: 14px;
-    color: var(--cyan);
-    letter-spacing: 2px;
-  }
-
-  /* THREAT LEVEL BANNER */
-  .threat-banner {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--green);
-    padding: 20px 30px;
-    margin-bottom: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    transition: all 0.5s ease;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .threat-banner::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background: linear-gradient(90deg, rgba(0,255,136,0.03) 0%, transparent 60%);
-    transition: all 0.5s ease;
-  }
-
-  .threat-banner.medium {
-    border-left-color: var(--yellow);
-  }
-  .threat-banner.medium::before {
-    background: linear-gradient(90deg, rgba(255,215,0,0.05) 0%, transparent 60%);
-  }
-
-  .threat-banner.high {
-    border-left-color: var(--red);
-    animation: threat-pulse 1s ease-in-out infinite;
-  }
-  .threat-banner.high::before {
-    background: linear-gradient(90deg, rgba(255,32,82,0.08) 0%, transparent 60%);
-  }
-
-  @keyframes threat-pulse {
-    0%, 100% { box-shadow: none; }
-    50% { box-shadow: 0 0 30px rgba(255,32,82,0.2); }
-  }
-
-  .threat-label {
-    font-family: 'Orbitron', monospace;
-    font-size: 11px;
-    letter-spacing: 4px;
-    color: var(--text-dim);
-    text-transform: uppercase;
-    margin-bottom: 6px;
-  }
-
-  .threat-level-text {
-    font-family: 'Orbitron', monospace;
-    font-size: 32px;
-    font-weight: 900;
-    color: var(--green);
-    letter-spacing: 4px;
-    text-shadow: var(--glow-green);
-    transition: all 0.5s ease;
-  }
-
-  .threat-banner.medium .threat-level-text { color: var(--yellow); text-shadow: 0 0 20px rgba(255,215,0,0.5); }
-  .threat-banner.high .threat-level-text { color: var(--red); text-shadow: var(--glow-red); }
-
-  .ai-badge {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 4px;
-  }
-
-  .ai-prediction {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 11px;
-    color: var(--text-dim);
-    letter-spacing: 2px;
-  }
-
-  .ai-result {
-    font-family: 'Orbitron', monospace;
-    font-size: 18px;
-    font-weight: 700;
-    color: var(--green);
-    letter-spacing: 3px;
-  }
-
+  /* THREAT BANNER */
+  .threat-banner { background: var(--panel); border: 1px solid var(--border); border-left: 4px solid var(--green); padding: 20px 30px; margin-bottom: 30px; display: flex; align-items: center; justify-content: space-between; transition: all 0.5s ease; position: relative; overflow: hidden; }
+  .threat-banner::before { content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(90deg, rgba(0,255,136,0.03) 0%, transparent 60%); transition: all 0.5s ease; pointer-events: none; }
+  .threat-banner.medium { border-left-color: var(--yellow); }
+  .threat-banner.medium::before { background: linear-gradient(90deg, rgba(255,215,0,0.05) 0%, transparent 60%); }
+  .threat-banner.high { border-left-color: var(--red); animation: threat-pulse 1s ease-in-out infinite; }
+  .threat-banner.high::before { background: linear-gradient(90deg, rgba(255,32,82,0.08) 0%, transparent 60%); }
+  @keyframes threat-pulse { 0%, 100% { box-shadow: none; } 50% { box-shadow: 0 0 30px rgba(255,32,82,0.2); } }
+  .threat-label { font-family: 'Orbitron', monospace; font-size: 11px; letter-spacing: 4px; color: var(--text-dim); text-transform: uppercase; margin-bottom: 6px; }
+  .threat-level-text { font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 900; color: var(--green); letter-spacing: 4px; text-shadow: var(--glow-green); transition: all 0.5s ease; }
+  .threat-banner.medium .threat-level-text { color: var(--yellow); text-shadow: var(--glow-yellow); }
+  .threat-banner.high   .threat-level-text { color: var(--red); text-shadow: var(--glow-red); }
+  .ai-badge { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+  .ai-prediction { font-family: 'Share Tech Mono', monospace; font-size: 11px; color: var(--text-dim); letter-spacing: 2px; }
+  .ai-result { font-family: 'Orbitron', monospace; font-size: 18px; font-weight: 700; color: var(--green); letter-spacing: 3px; transition: all 0.3s; }
   .ai-result.malware { color: var(--red); text-shadow: var(--glow-red); }
-
-  .confidence-bar-wrap {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin-top: 4px;
-  }
-
-  .confidence-bar {
-    width: 120px;
-    height: 4px;
-    background: var(--border);
-    border-radius: 2px;
-    overflow: hidden;
-  }
-
-  .confidence-fill {
-    height: 100%;
-    background: var(--green);
-    border-radius: 2px;
-    transition: width 0.8s ease;
-    box-shadow: var(--glow-green);
-  }
-
+  .confidence-bar-wrap { display: flex; align-items: center; gap: 10px; }
+  .confidence-bar { width: 140px; height: 4px; background: var(--border); border-radius: 2px; overflow: hidden; }
+  .confidence-fill { height: 100%; background: var(--green); border-radius: 2px; transition: width 0.8s ease; box-shadow: var(--glow-green); }
   .confidence-fill.malware { background: var(--red); box-shadow: var(--glow-red); }
+  .confidence-pct { font-family: 'Share Tech Mono', monospace; font-size: 13px; color: var(--cyan); }
+  .family-pill { display: none; align-items: center; gap: 8px; background: rgba(191,95,255,0.08); border: 1px solid rgba(191,95,255,0.35); padding: 5px 12px; margin-top: 2px; }
+  .family-pill.show { display: flex; }
+  .family-pill-name { font-family: 'Orbitron', monospace; font-size: 14px; font-weight: 700; color: var(--purple); letter-spacing: 3px; text-shadow: var(--glow-purple); }
+  .family-pill-conf { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); }
 
-  .confidence-pct {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 13px;
-    color: var(--cyan);
-  }
+  /* STATS */
+  .stats-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; margin-bottom: 30px; }
+  .stat-card { background: var(--panel); border: 1px solid var(--border); padding: 20px; position: relative; overflow: hidden; transition: border-color 0.3s; }
+  .stat-card::after { content: ''; position: absolute; top: 0; right: 0; width: 40px; height: 40px; border-top: 1px solid var(--cyan); border-right: 1px solid var(--cyan); opacity: 0.3; }
+  .stat-card:hover { border-color: rgba(0,245,255,0.4); }
+  .stat-icon { font-size: 20px; margin-bottom: 12px; display: block; }
+  .stat-value { font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 900; color: var(--cyan); letter-spacing: 2px; line-height: 1; margin-bottom: 8px; text-shadow: var(--glow-cyan); transition: all 0.3s; }
+  .stat-label { font-family: 'Share Tech Mono', monospace; font-size: 10px; letter-spacing: 3px; color: var(--text-dim); text-transform: uppercase; }
+  .stat-card.danger  .stat-value { color: var(--red);    text-shadow: var(--glow-red); }
+  .stat-card.warning .stat-value { color: var(--yellow); text-shadow: var(--glow-yellow); }
+  .stat-card.success .stat-value { color: var(--green);  text-shadow: var(--glow-green); }
+  .stat-card.purple  .stat-value { color: var(--purple); text-shadow: var(--glow-purple); font-size: 18px; padding-top: 7px; }
 
-  /* STATS GRID */
-  .stats-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
-    margin-bottom: 30px;
-  }
-
-  .stat-card {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    padding: 20px;
-    position: relative;
-    overflow: hidden;
-    transition: border-color 0.3s ease;
-  }
-
-  .stat-card::after {
-    content: '';
-    position: absolute;
-    top: 0; right: 0;
-    width: 40px; height: 40px;
-    border-top: 1px solid var(--cyan);
-    border-right: 1px solid var(--cyan);
-    opacity: 0.3;
-  }
-
-  .stat-card:hover {
-    border-color: var(--cyan);
-  }
-
-  .stat-icon {
-    font-size: 20px;
-    margin-bottom: 12px;
-    display: block;
-  }
-
-  .stat-value {
-    font-family: 'Orbitron', monospace;
-    font-size: 36px;
-    font-weight: 900;
-    color: var(--cyan);
-    letter-spacing: 2px;
-    line-height: 1;
-    margin-bottom: 8px;
-    text-shadow: var(--glow-cyan);
-    transition: all 0.3s ease;
-  }
-
-  .stat-label {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 10px;
-    letter-spacing: 3px;
-    color: var(--text-dim);
-    text-transform: uppercase;
-  }
-
-  .stat-card.danger .stat-value { color: var(--red); text-shadow: var(--glow-red); }
-  .stat-card.warning .stat-value { color: var(--yellow); text-shadow: 0 0 20px rgba(255,215,0,0.4); }
-  .stat-card.success .stat-value { color: var(--green); text-shadow: var(--glow-green); }
-
-  /* MAIN CONTENT */
-  .main-grid {
-    display: grid;
-    grid-template-columns: 1fr 380px;
-    gap: 20px;
-    margin-bottom: 30px;
-  }
-
-  .panel {
-    background: var(--panel);
-    border: 1px solid var(--border);
-  }
-
-  .panel-header {
-    padding: 16px 20px;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: rgba(0,245,255,0.02);
-  }
-
-  .panel-title {
-    font-family: 'Orbitron', monospace;
-    font-size: 11px;
-    letter-spacing: 4px;
-    color: var(--cyan);
-    text-transform: uppercase;
-  }
-
-  .panel-badge {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 10px;
-    color: var(--text-dim);
-    letter-spacing: 2px;
-    padding: 3px 8px;
-    border: 1px solid var(--border);
-  }
+  /* MAIN GRID */
+  .main-grid { display: grid; grid-template-columns: 1fr 420px; gap: 20px; margin-bottom: 24px; }
+  .panel { background: var(--panel); border: 1px solid var(--border); }
+  .panel-header { padding: 16px 20px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; background: rgba(0,245,255,0.02); }
+  .panel-title { font-family: 'Orbitron', monospace; font-size: 11px; letter-spacing: 4px; color: var(--cyan); text-transform: uppercase; }
+  .panel-badge { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); letter-spacing: 2px; padding: 3px 8px; border: 1px solid var(--border); }
 
   /* ALERT FEED */
-  .alert-feed {
-    height: 400px;
-    overflow-y: auto;
-    padding: 10px;
-  }
-
-  .alert-feed::-webkit-scrollbar {
-    width: 4px;
-  }
+  .alert-feed { height: 420px; overflow-y: auto; padding: 10px; }
+  .alert-feed::-webkit-scrollbar { width: 4px; }
   .alert-feed::-webkit-scrollbar-track { background: var(--bg); }
   .alert-feed::-webkit-scrollbar-thumb { background: var(--border); }
-
-  .alert-item {
-    display: flex;
-    gap: 12px;
-    padding: 10px 12px;
-    margin-bottom: 4px;
-    border-left: 2px solid var(--border);
-    animation: slide-in 0.3s ease;
-    transition: background 0.2s;
-  }
-
+  .alert-item { display: flex; gap: 12px; padding: 10px 12px; margin-bottom: 4px; border-left: 2px solid var(--border); animation: slide-in 0.3s ease; transition: background 0.2s; }
   .alert-item:hover { background: rgba(0,245,255,0.03); }
-
-  @keyframes slide-in {
-    from { opacity: 0; transform: translateX(-10px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-
+  @keyframes slide-in { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
   .alert-item.critical { border-left-color: var(--red); }
-  .alert-item.warning { border-left-color: var(--yellow); }
-  .alert-item.info { border-left-color: var(--cyan); }
-  .alert-item.success { border-left-color: var(--green); }
-
-  .alert-time {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 10px;
-    color: var(--text-dim);
-    white-space: nowrap;
-    padding-top: 2px;
-    min-width: 80px;
-  }
-
-  .alert-content {
-    flex: 1;
-  }
-
-  .alert-type {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 10px;
-    letter-spacing: 2px;
-    margin-bottom: 2px;
-  }
-
+  .alert-item.warning  { border-left-color: var(--yellow); }
+  .alert-item.info     { border-left-color: var(--cyan); }
+  .alert-item.success  { border-left-color: var(--green); }
+  .alert-item.family   { border-left-color: var(--purple); }
+  .alert-time { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); white-space: nowrap; padding-top: 2px; min-width: 80px; }
+  .alert-content { flex: 1; }
+  .alert-type { font-family: 'Share Tech Mono', monospace; font-size: 10px; letter-spacing: 2px; margin-bottom: 2px; }
   .alert-item.critical .alert-type { color: var(--red); }
-  .alert-item.warning .alert-type { color: var(--yellow); }
-  .alert-item.info .alert-type { color: var(--cyan); }
-  .alert-item.success .alert-type { color: var(--green); }
+  .alert-item.warning  .alert-type { color: var(--yellow); }
+  .alert-item.info     .alert-type { color: var(--cyan); }
+  .alert-item.success  .alert-type { color: var(--green); }
+  .alert-item.family   .alert-type { color: var(--purple); }
+  .alert-msg { font-size: 12px; color: var(--text); line-height: 1.4; word-break: break-all; }
 
-  .alert-msg {
-    font-size: 12px;
-    color: var(--text);
-    line-height: 1.4;
-    word-break: break-all;
-  }
+  /* RIGHT PANEL */
+  .prob-gauge { padding: 14px 16px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 12px; }
+  .prob-label { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); letter-spacing: 2px; min-width: 110px; }
+  .prob-track { flex: 1; height: 8px; background: var(--border); border-radius: 4px; overflow: hidden; }
+  .prob-fill { height: 100%; border-radius: 4px; background: linear-gradient(90deg, var(--green) 0%, var(--yellow) 50%, var(--red) 100%); transition: width 0.8s ease; width: 0%; }
+  .prob-pct { font-family: 'Orbitron', monospace; font-size: 13px; color: var(--cyan); min-width: 48px; text-align: right; }
 
-  /* AI PREDICTION HISTORY */
-  .prediction-list {
-    padding: 10px;
-    height: 400px;
-    overflow-y: auto;
-  }
+  /* 13 FEATURES */
+  .feature-grid { padding: 10px 12px; border-bottom: 1px solid var(--border); display: grid; grid-template-columns: 1fr 1fr; gap: 3px; }
+  .feat-row { display: flex; justify-content: space-between; align-items: center; padding: 4px 6px; border: 1px solid transparent; transition: border-color 0.2s; font-family: 'Share Tech Mono', monospace; font-size: 10px; }
+  .feat-row:hover { border-color: var(--border); }
+  .feat-key { color: var(--text-dim); }
+  .feat-val { color: var(--cyan); font-weight: bold; transition: color 0.3s; }
+  .feat-val.hot  { color: var(--red); }
+  .feat-val.warm { color: var(--yellow); }
 
-  .prediction-item {
-    padding: 12px 14px;
-    margin-bottom: 6px;
-    border: 1px solid var(--border);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    animation: slide-in 0.3s ease;
-  }
-
-  .prediction-item.malware {
-    border-color: rgba(255,32,82,0.3);
-    background: rgba(255,32,82,0.03);
-  }
-
-  .pred-label {
-    font-family: 'Orbitron', monospace;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 2px;
-  }
-
-  .pred-label.benign { color: var(--green); }
+  /* PREDICTION LIST */
+  .prediction-list { padding: 8px; height: 200px; overflow-y: auto; }
+  .prediction-list::-webkit-scrollbar { width: 4px; }
+  .prediction-list::-webkit-scrollbar-track { background: var(--bg); }
+  .prediction-list::-webkit-scrollbar-thumb { background: var(--border); }
+  .prediction-item { padding: 10px 12px; margin-bottom: 6px; border: 1px solid var(--border); animation: slide-in 0.3s ease; }
+  .prediction-item.malware { border-color: rgba(255,32,82,0.3); background: rgba(255,32,82,0.03); }
+  .pred-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px; }
+  .pred-label { font-family: 'Orbitron', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; }
+  .pred-label.benign  { color: var(--green); }
   .pred-label.malware { color: var(--red); }
+  .pred-time { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); margin-top: 3px; }
+  .pred-conf { font-family: 'Share Tech Mono', monospace; font-size: 11px; color: var(--text-dim); text-align: right; }
+  .pred-family { display: none; align-items: center; gap: 6px; padding: 4px 8px; background: rgba(191,95,255,0.07); border: 1px solid rgba(191,95,255,0.2); margin-bottom: 6px; }
+  .pred-family.show { display: flex; }
+  .pred-family-name { font-family: 'Orbitron', monospace; font-size: 11px; color: var(--purple); letter-spacing: 2px; }
+  .pred-family-conf { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); }
+  .pred-desc { font-size: 11px; color: var(--text); line-height: 1.4; border-top: 1px solid var(--border); padding-top: 6px; }
 
-  .pred-conf {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 11px;
-    color: var(--text-dim);
-  }
-
-  .pred-time {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 10px;
-    color: var(--text-dim);
-    margin-top: 3px;
-  }
-
-  /* ENTROPY CHART */
-  .bottom-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-  }
-
-  .entropy-display {
-    padding: 20px;
-    height: 200px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    overflow-y: auto;
-  }
-
-  .entropy-bar-item {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    animation: slide-in 0.3s ease;
-  }
-
-  .entropy-filename {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 10px;
-    color: var(--text-dim);
-    width: 200px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .entropy-track {
-    flex: 1;
-    height: 6px;
-    background: var(--border);
-    border-radius: 3px;
-    overflow: hidden;
-  }
-
-  .entropy-fill {
-    height: 100%;
-    border-radius: 3px;
-    transition: width 0.5s ease;
-  }
-
-  .entropy-val {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 11px;
-    width: 35px;
-    text-align: right;
-  }
-
-  /* PROCESS MONITOR */
-  .process-list {
-    padding: 12px;
-    height: 200px;
-    overflow-y: auto;
-  }
-
-  .process-item {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 8px 10px;
-    margin-bottom: 4px;
-    border: 1px solid transparent;
-    transition: all 0.2s;
-  }
-
+  /* BOTTOM GRID */
+  .bottom-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .entropy-display { padding: 14px; height: 210px; display: flex; flex-direction: column; gap: 8px; overflow-y: auto; }
+  .entropy-display::-webkit-scrollbar { width: 4px; }
+  .entropy-display::-webkit-scrollbar-track { background: var(--bg); }
+  .entropy-display::-webkit-scrollbar-thumb { background: var(--border); }
+  .entropy-bar-item { display: flex; align-items: center; gap: 10px; animation: slide-in 0.3s ease; }
+  .entropy-filename { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); width: 190px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .entropy-track { flex: 1; height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; }
+  .entropy-fill { height: 100%; border-radius: 3px; transition: width 0.5s ease; }
+  .entropy-val { font-family: 'Share Tech Mono', monospace; font-size: 11px; width: 40px; text-align: right; }
+  .process-list { padding: 12px; height: 210px; overflow-y: auto; }
+  .process-list::-webkit-scrollbar { width: 4px; }
+  .process-list::-webkit-scrollbar-track { background: var(--bg); }
+  .process-list::-webkit-scrollbar-thumb { background: var(--border); }
+  .process-item { display: flex; align-items: center; justify-content: space-between; padding: 8px 10px; margin-bottom: 4px; border: 1px solid transparent; transition: all 0.2s; }
   .process-item:hover { border-color: var(--border); }
-  .process-item.suspicious {
-    border-color: rgba(255,32,82,0.3);
-    background: rgba(255,32,82,0.03);
-    animation: slide-in 0.3s ease;
-  }
-
-  .proc-name {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 12px;
-    color: var(--text);
-  }
-
-  .proc-tag {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 9px;
-    letter-spacing: 2px;
-    padding: 2px 6px;
-    border: 1px solid;
-  }
-
-  .proc-tag.safe { color: var(--green); border-color: var(--green); }
-  .proc-tag.suspicious { color: var(--red); border-color: var(--red); }
+  .process-item.suspicious { border-color: rgba(255,32,82,0.3); background: rgba(255,32,82,0.03); animation: slide-in 0.3s ease; }
+  .proc-info { display: flex; flex-direction: column; gap: 2px; }
+  .proc-name { font-family: 'Share Tech Mono', monospace; font-size: 12px; color: var(--text); }
+  .proc-cpu  { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); }
+  .proc-tag { font-family: 'Share Tech Mono', monospace; font-size: 9px; letter-spacing: 2px; padding: 2px 6px; border: 1px solid; }
+  .proc-tag.safe       { color: var(--green); border-color: var(--green); }
+  .proc-tag.suspicious { color: var(--red);   border-color: var(--red); }
 
   /* FOOTER */
-  footer {
-    border-top: 1px solid var(--border);
-    padding: 16px 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 10px;
-  }
-
-  .footer-text {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 10px;
-    color: var(--text-dim);
-    letter-spacing: 2px;
-  }
-
+  footer { border-top: 1px solid var(--border); padding: 16px 0; display: flex; justify-content: space-between; align-items: center; margin-top: 24px; }
+  .footer-text { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim); letter-spacing: 2px; }
   .footer-text span { color: var(--cyan); }
 
-  /* MALWARE ALERT OVERLAY */
-  .malware-overlay {
-    display: none;
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 9999;
-    background: var(--panel);
-    border: 2px solid var(--red);
-    padding: 20px 30px;
-    box-shadow: var(--glow-red), 0 0 60px rgba(255,32,82,0.2);
-    animation: overlay-pulse 0.5s ease-in-out infinite alternate;
-    max-width: 350px;
-  }
-
+  /* OVERLAY */
+  .malware-overlay { display: none; position: fixed; top: 20px; right: 20px; z-index: 9999; background: var(--panel); border: 2px solid var(--red); padding: 22px 28px; max-width: 380px; box-shadow: var(--glow-red), 0 0 60px rgba(255,32,82,0.2); animation: overlay-pulse 0.5s ease-in-out infinite alternate; }
   .malware-overlay.show { display: block; }
-
-  @keyframes overlay-pulse {
-    from { box-shadow: var(--glow-red); }
-    to { box-shadow: 0 0 50px rgba(255,32,82,0.6); }
-  }
-
-  .overlay-title {
-    font-family: 'Orbitron', monospace;
-    font-size: 14px;
-    color: var(--red);
-    letter-spacing: 3px;
-    margin-bottom: 8px;
-  }
-
-  .overlay-msg {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 11px;
-    color: var(--text);
-    line-height: 1.6;
-  }
-
-  .overlay-close {
-    position: absolute;
-    top: 8px;
-    right: 12px;
-    cursor: pointer;
-    color: var(--text-dim);
-    font-size: 16px;
-    background: none;
-    border: none;
-    color: var(--text-dim);
-  }
-
-  /* Animate numbers */
-  @keyframes count-up {
-    from { opacity: 0; transform: translateY(5px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  .updated {
-    animation: count-up 0.3s ease;
-  }
+  @keyframes overlay-pulse { from { box-shadow: var(--glow-red); } to { box-shadow: 0 0 50px rgba(255,32,82,0.6); } }
+  .overlay-close { position: absolute; top: 8px; right: 12px; cursor: pointer; background: none; border: none; color: var(--text-dim); font-size: 16px; }
+  .overlay-title { font-family: 'Orbitron', monospace; font-size: 13px; color: var(--red); letter-spacing: 3px; margin-bottom: 6px; }
+  .overlay-family-line { font-family: 'Orbitron', monospace; font-size: 17px; color: var(--purple); letter-spacing: 2px; margin-bottom: 8px; text-shadow: var(--glow-purple); display: none; }
+  .overlay-family-line.show { display: block; }
+  .overlay-msg { font-family: 'Share Tech Mono', monospace; font-size: 11px; color: var(--text); line-height: 1.6; }
 </style>
 </head>
 <body>
-
 <div class="container">
+
   <!-- HEADER -->
   <header>
     <div class="logo">
       <div class="logo-icon">🛡</div>
       <div class="logo-text">
         <h1>SENTINEL</h1>
-        <p>AI-Powered Ransomware Detection System // AMD Optimized</p>
+        <p>AI-Powered Ransomware Detection System // AMD AI Slingshot</p>
       </div>
     </div>
     <div class="header-right">
@@ -694,12 +229,17 @@
     </div>
     <div class="ai-badge">
       <div class="ai-prediction">// AI MODEL PREDICTION</div>
-      <div class="ai-result" id="aiResult">BENIGN</div>
+      <div class="ai-result" id="aiResult">SYSTEM SAFE</div>
       <div class="confidence-bar-wrap">
         <div class="confidence-bar">
-          <div class="confidence-fill" id="confidenceFill" style="width:100%"></div>
+          <div class="confidence-fill" id="confidenceFill" style="width:0%"></div>
         </div>
-        <span class="confidence-pct" id="confidencePct">100%</span>
+        <span class="confidence-pct" id="confidencePct">0%</span>
+      </div>
+      <div class="family-pill" id="familyPill">
+        <span style="font-size:13px">🔍</span>
+        <span class="family-pill-name" id="familyPillName">—</span>
+        <span class="family-pill-conf" id="familyPillConf"></span>
       </div>
     </div>
   </div>
@@ -726,6 +266,11 @@
       <div class="stat-value" id="statScans">0</div>
       <div class="stat-label">AI Scans Run</div>
     </div>
+    <div class="stat-card purple">
+      <span class="stat-icon">🧬</span>
+      <div class="stat-value" id="statFamily">—</div>
+      <div class="stat-label">Family Identified</div>
+    </div>
   </div>
 
   <!-- MAIN GRID -->
@@ -737,384 +282,347 @@
         <span class="panel-badge" id="alertCount">0 EVENTS</span>
       </div>
       <div class="alert-feed" id="alertFeed">
-        <div style="padding:40px;text-align:center;color:var(--text-dim);font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:2px;">
-          AWAITING ACTIVITY...
-        </div>
+        <div style="padding:40px;text-align:center;color:var(--text-dim);font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:2px;">AWAITING ACTIVITY...</div>
       </div>
     </div>
 
-    <!-- AI PREDICTIONS -->
+    <!-- AI PANEL -->
     <div class="panel">
       <div class="panel-header">
         <span class="panel-title">// AI Predictions</span>
-        <span class="panel-badge">EVERY 5s</span>
+        <span class="panel-badge">XGBoost v2.0</span>
       </div>
-      <div id="aiFeatures" style="padding: 12px; border-bottom: 1px solid var(--border); display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--text-dim);">
-        <!-- Features will be injected here -->
+
+      <!-- PROBABILITY GAUGE -->
+      <div class="prob-gauge">
+        <div class="prob-label">RANSOMWARE PROB</div>
+        <div class="prob-track"><div class="prob-fill" id="probFill"></div></div>
+        <div class="prob-pct" id="probPct">0.0%</div>
       </div>
+
+      <!-- 13 LIVE FEATURES -->
+      <div class="feature-grid">
+        <div class="feat-row"><span class="feat-key">RENAME COUNT</span>   <span class="feat-val" id="f_rename_count">0</span></div>
+        <div class="feat-row"><span class="feat-key">SUSPICIOUS EXT</span> <span class="feat-val" id="f_suspicious_ext_count">0</span></div>
+        <div class="feat-row"><span class="feat-key">RENAME RATIO</span>   <span class="feat-val" id="f_rename_ratio">0.0000</span></div>
+        <div class="feat-row"><span class="feat-key">DELETE RATIO</span>   <span class="feat-val" id="f_delete_ratio">0.0000</span></div>
+        <div class="feat-row"><span class="feat-key">MAX ENTROPY</span>    <span class="feat-val" id="f_max_entropy">0.0000</span></div>
+        <div class="feat-row"><span class="feat-key">HIGH ENT RATIO</span> <span class="feat-val" id="f_high_entropy_ratio">0.0000</span></div>
+        <div class="feat-row"><span class="feat-key">EVENTS / SEC</span>   <span class="feat-val" id="f_file_events_per_sec">0</span></div>
+        <div class="feat-row"><span class="feat-key">UNIQUE EXTS</span>    <span class="feat-val" id="f_unique_extensions">0</span></div>
+        <div class="feat-row"><span class="feat-key">DELETE COUNT</span>   <span class="feat-val" id="f_delete_count">0</span></div>
+        <div class="feat-row"><span class="feat-key">CREATE COUNT</span>   <span class="feat-val" id="f_create_count">0</span></div>
+        <div class="feat-row"><span class="feat-key">AVG ENTROPY</span>    <span class="feat-val" id="f_avg_entropy">0.0000</span></div>
+        <div class="feat-row"><span class="feat-key">AVG CPU</span>        <span class="feat-val" id="f_avg_cpu">0.0</span></div>
+      </div>
+
+      <!-- PREDICTION HISTORY -->
       <div class="prediction-list" id="predictionList">
-        <div style="padding:20px;text-align:center;color:var(--text-dim);font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:2px;">
-          MODEL INITIALIZING...
-        </div>
+        <div style="padding:20px;text-align:center;color:var(--text-dim);font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:2px;">MODEL INITIALIZING...</div>
       </div>
     </div>
   </div>
 
   <!-- BOTTOM GRID -->
   <div class="bottom-grid">
-    <!-- ENTROPY MONITOR -->
     <div class="panel">
       <div class="panel-header">
         <span class="panel-title">// Entropy Monitor</span>
-        <span class="panel-badge">THRESHOLD: 7.2</span>
+        <span class="panel-badge">THRESHOLD: 7.2 / 8.0</span>
       </div>
       <div class="entropy-display" id="entropyDisplay">
-        <div style="padding:20px;text-align:center;color:var(--text-dim);font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:2px;">
-          NO HIGH ENTROPY FILES DETECTED
-        </div>
+        <div style="padding:20px;text-align:center;color:var(--text-dim);font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:2px;">NO HIGH ENTROPY FILES DETECTED</div>
       </div>
     </div>
-
-    <!-- PROCESS MONITOR -->
     <div class="panel">
       <div class="panel-header">
         <span class="panel-title">// Process Monitor</span>
         <span class="panel-badge" id="procCount">SCANNING...</span>
       </div>
       <div class="process-list" id="processList">
-        <div style="padding:20px;text-align:center;color:var(--text-dim);font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:2px;">
-          SCANNING PROCESSES...
-        </div>
+        <div style="padding:20px;text-align:center;color:var(--text-dim);font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:2px;">SCANNING PROCESSES...</div>
       </div>
     </div>
   </div>
 
   <footer>
-    <div class="footer-text">SENTINEL v1.0 // <span>AMD GPU ACCELERATED</span> // RANDOM FOREST MODEL // <span>99% ACCURACY</span></div>
-    <div class="footer-text">MODEL: <span>RandomForestClassifier</span> // DATASET: <span>21,752 SAMPLES</span> // FEATURES: <span>18</span></div>
+    <div class="footer-text">SENTINEL v2.0 // <span>AMD AI SLINGSHOT</span> // XGBoost Binary + Family + LSTM Kill Chain</div>
+    <div class="footer-text">FEATURES: <span>13 BEHAVIORAL</span> // FAMILIES: <span>WannaCry · LockBit · REvil</span> // MFT: <span>ACTIVE</span></div>
   </footer>
 </div>
 
-<!-- MALWARE ALERT OVERLAY -->
+<!-- OVERLAY -->
 <div class="malware-overlay" id="malwareOverlay">
   <button class="overlay-close" onclick="document.getElementById('malwareOverlay').classList.remove('show')">✕</button>
   <div class="overlay-title">⚠ RANSOMWARE DETECTED</div>
+  <div class="overlay-family-line" id="overlayFamilyLine"></div>
   <div class="overlay-msg" id="overlayMsg">High confidence malware behavior detected. Immediate action recommended.</div>
 </div>
 
 <script>
-  // ── STATE ──────────────────────────────────────────────────────
-  const state = {
-    totalAlerts: 0,
-    renames: 0,
-    entropyFiles: 0,
-    aiScans: 0,
-    threatLevel: 'low',
-    predictions: [],
-    entropyItems: [],
-    processes: [],
-    lastHighThreatTime: 0,
-    lastFeatures: null
+const state = {
+  totalAlerts: 0, renames: 0, entropyFiles: 0, aiScans: 0,
+  threatLevel: 'low', lastHighThreatTime: 0
+};
+const alertQueue = [];
+
+// Clock
+function updateClock() {
+  document.getElementById('clock').textContent = new Date().toLocaleTimeString('en-US', { hour12: false });
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+// Drain queue
+setInterval(() => {
+  for (let i = 0; i < 3 && alertQueue.length > 0; i++) {
+    const d = alertQueue.shift();
+    if (d.type === 'alert')   addAlert(d.alertType, d.message);
+    if (d.type === 'entropy') addEntropyFile(d.filename, d.entropy);
+  }
+}, 900);
+
+// Threat banner
+function setThreatLevel(level, aiLabel, confidence, family, familyConf) {
+  const now = Date.now();
+  if (level === 'high' || level === 'medium') state.lastHighThreatTime = now;
+  else if (now - state.lastHighThreatTime < 15000) level = state.threatLevel === 'high' ? 'high' : 'medium';
+  state.threatLevel = level;
+
+  document.getElementById('threatBanner').className      = 'threat-banner ' + level;
+  document.getElementById('threatLevelText').textContent = level.toUpperCase();
+
+  const isMalware = aiLabel === 'RANSOMWARE';
+  const aiEl = document.getElementById('aiResult');
+  aiEl.textContent = isMalware ? 'RANSOMWARE DETECTED' : 'SYSTEM SAFE';
+  aiEl.className   = 'ai-result' + (isMalware ? ' malware' : '');
+
+  const fill = document.getElementById('confidenceFill');
+  fill.className   = 'confidence-fill' + (isMalware ? ' malware' : '');
+  fill.style.width = confidence + '%';
+  document.getElementById('confidencePct').textContent = confidence + '%';
+
+  const pill = document.getElementById('familyPill');
+  if (isMalware && family && family !== 'Unknown' && family !== 'Benign') {
+    document.getElementById('familyPillName').textContent = family.toUpperCase();
+    document.getElementById('familyPillConf').textContent = familyConf + '% MATCH';
+    pill.classList.add('show');
+    document.getElementById('statFamily').textContent = family.toUpperCase().slice(0, 8);
+    const ofl = document.getElementById('overlayFamilyLine');
+    ofl.textContent = '🔍 ' + family + ' VARIANT';
+    ofl.classList.add('show');
+  } else if (!isMalware) {
+    pill.classList.remove('show');
+    document.getElementById('overlayFamilyLine').classList.remove('show');
+  }
+
+  if (isMalware && parseFloat(confidence) > 80) {
+    document.getElementById('overlayMsg').textContent =
+      `XGBoost detected ransomware with ${confidence}% confidence. ${state.renames} suspicious renames.` +
+      (family && family !== 'Unknown' && family !== 'Benign' ? ` Variant: ${family}.` : '');
+    document.getElementById('malwareOverlay').classList.add('show');
+  }
+}
+
+// Add alert
+function addAlert(type, message) {
+  const feed = document.getElementById('alertFeed');
+  const ph = feed.querySelector('div[style]');
+  if (ph) ph.remove();
+
+  state.totalAlerts++;
+  document.getElementById('statAlerts').textContent = state.totalAlerts;
+  document.getElementById('alertCount').textContent = state.totalAlerts + ' EVENTS';
+  if (type === 'rename')  { state.renames++;      document.getElementById('statRenames').textContent = state.renames; }
+  if (type === 'entropy') { state.entropyFiles++;  document.getElementById('statEntropy').textContent = state.entropyFiles; }
+
+  const typeMap = {
+    rename:    { cls: 'critical', label: 'SUSPICIOUS RENAME' },
+    entropy:   { cls: 'critical', label: 'HIGH ENTROPY FILE' },
+    activity:  { cls: 'warning',  label: 'HIGH FILE ACTIVITY' },
+    process:   { cls: 'warning',  label: 'SUSPICIOUS PROCESS' },
+    killchain: { cls: 'family',   label: 'KILL CHAIN DETECTED' },
+    mft:       { cls: 'family',   label: 'MFT RECON DETECTED' },
+    info:      { cls: 'info',     label: 'SYSTEM' }
   };
+  const t   = typeMap[type] || typeMap.info;
+  const now = new Date().toLocaleTimeString('en-US', { hour12: false });
 
-  const alertQueue = [];
+  const item = document.createElement('div');
+  item.className = `alert-item ${t.cls}`;
+  item.innerHTML = `<div class="alert-time">${now}</div><div class="alert-content"><div class="alert-type">${t.label}</div><div class="alert-msg">${message}</div></div>`;
+  feed.appendChild(item);
+  feed.scrollTop = feed.scrollHeight;
+  while (feed.children.length > 100) feed.removeChild(feed.firstChild);
+  updateThreatFromStats();
+}
 
-  // ── CLOCK ──────────────────────────────────────────────────────
-  function updateClock() {
-    const now = new Date();
-    document.getElementById('clock').textContent =
-      now.toLocaleTimeString('en-US', { hour12: false });
-  }
-  setInterval(updateClock, 1000);
-  updateClock();
+// Add prediction
+function addPrediction(label, confidence, ransomwareProb, features, family, familyConf) {
+  state.aiScans++;
+  document.getElementById('statScans').textContent = state.aiScans;
 
-  // Process alert queue every 1000ms to slow down updates and prevent flickering
-  setInterval(() => {
-    // Process up to 3 alerts at a time to stay current without overwhelming the user
-    for (let i = 0; i < 3 && alertQueue.length > 0; i++) {
-      const data = alertQueue.shift();
-      if (data.type === 'alert') addAlert(data.alertType, data.message);
-      if (data.type === 'entropy') addEntropyFile(data.filename, data.entropy);
-    }
-  }, 1000);
+  const prob = parseFloat(ransomwareProb) || 0;
+  document.getElementById('probFill').style.width = prob + '%';
+  document.getElementById('probPct').textContent  = prob.toFixed(1) + '%';
 
-  // ── THREAT LEVEL ───────────────────────────────────────────────
-  function setThreatLevel(level, aiLabel, confidence) {
-    const banner = document.getElementById('threatBanner');
-    const text = document.getElementById('threatLevelText');
-    const aiResult = document.getElementById('aiResult');
-    const fill = document.getElementById('confidenceFill');
-    const pct = document.getElementById('confidencePct');
-
-    const now = Date.now();
-    if (level === 'high' || level === 'medium') {
-      state.lastHighThreatTime = now;
-    } else if (now - state.lastHighThreatTime < 15000) {
-      // Keep it at least medium for 15 seconds after a high/medium event
-      level = state.threatLevel === 'high' ? 'high' : 'medium';
-    }
-
-    banner.className = 'threat-banner ' + level;
-    text.textContent = level.toUpperCase();
-
-    const isMalware = aiLabel === 'MALWARE';
-    aiResult.textContent = isMalware ? "MALICIOUS ACTIVITY DETECTED" : "SYSTEM SAFE - NO THREATS";
-    aiResult.className = 'ai-result' + (isMalware ? ' malware' : '');
-    fill.className = 'confidence-fill' + (isMalware ? ' malware' : '');
-    fill.style.width = confidence + '%';
-    pct.textContent = confidence + '%';
-
-    if (isMalware && confidence > 80) {
-      document.getElementById('overlayMsg').textContent =
-        `AI detected ransomware behavior with ${confidence}% confidence. ${state.renames} suspicious file renames detected.`;
-      document.getElementById('malwareOverlay').classList.add('show');
-    }
-  }
-
-  // ── ADD ALERT ──────────────────────────────────────────────────
-  function addAlert(type, message) {
-    const feed = document.getElementById('alertFeed');
-
-    // Clear placeholder
-    const placeholder = feed.querySelector('div[style]');
-    if (placeholder) placeholder.remove();
-
-    state.totalAlerts++;
-    document.getElementById('statAlerts').textContent = state.totalAlerts;
-    document.getElementById('alertCount').textContent = state.totalAlerts + ' EVENTS';
-
-    if (type === 'rename') state.renames++;
-    if (type === 'entropy') state.entropyFiles++;
-
-    document.getElementById('statRenames').textContent = state.renames;
-    document.getElementById('statEntropy').textContent = state.entropyFiles;
-
-    const typeMap = {
-      rename: { cls: 'critical', label: 'SUSPICIOUS RENAME' },
-      entropy: { cls: 'critical', label: 'HIGH ENTROPY FILE' },
-      activity: { cls: 'warning', label: 'HIGH FILE ACTIVITY' },
-      process: { cls: 'warning', label: 'SUSPICIOUS PROCESS' },
-      info: { cls: 'info', label: 'SYSTEM' }
+  if (features) {
+    const map = {
+      'rename_count':         'f_rename_count',
+      'suspicious_ext_count': 'f_suspicious_ext_count',
+      'rename_ratio':         'f_rename_ratio',
+      'delete_ratio':         'f_delete_ratio',
+      'max_entropy':          'f_max_entropy',
+      'high_entropy_ratio':   'f_high_entropy_ratio',
+      'file_events_per_sec':  'f_file_events_per_sec',
+      'unique_extensions':    'f_unique_extensions',
+      'delete_count':         'f_delete_count',
+      'create_count':         'f_create_count',
+      'avg_entropy':          'f_avg_entropy',
+      'avg_cpu':              'f_avg_cpu'
     };
-
-    const t = typeMap[type] || typeMap.info;
-    const now = new Date().toLocaleTimeString('en-US', { hour12: false });
-
-    const item = document.createElement('div');
-    item.className = `alert-item ${t.cls}`;
-    item.innerHTML = `
-      <div class="alert-time">${now}</div>
-      <div class="alert-content">
-        <div class="alert-type">${t.label}</div>
-        <div class="alert-msg">${message}</div>
-      </div>
-    `;
-
-    feed.appendChild(item);
-    feed.scrollTop = feed.scrollHeight;
-
-    // Keep max 100 items
-    while (feed.children.length > 100) feed.removeChild(feed.firstChild);
-
-    // Update threat level
-    updateThreatLevel();
-  }
-
-  // ── ADD PREDICTION ─────────────────────────────────────────────
-  function addPrediction(label, confidence, features) {
-    state.aiScans++;
-    document.getElementById('statScans').textContent = state.aiScans;
-
-    // Update feature display if we have new features
-    if (features) {
-      const hasActivity = Object.values(features).some(v => v > 0);
-      if (hasActivity || !state.lastFeatures) {
-        state.lastFeatures = features;
-        const featDiv = document.getElementById('aiFeatures');
-        featDiv.style.display = 'grid';
-        featDiv.innerHTML = '';
-
-        // Show only top relevant features
-        const labels = {
-          'files_malicious': 'MALICIOUS FILES',
-          'files_suspicious': 'SUSPICIOUS FILES',
-          'processes_malicious': 'MALICIOUS PROC',
-          'processes_suspicious': 'SUSPICIOUS PROC',
-          'network_threats': 'NET THREATS',
-          'registry_write': 'REG WRITES'
-        };
-
-        Object.entries(features).forEach(([k, v]) => {
-          if (labels[k]) {
-            const row = document.createElement('div');
-            row.style.display = 'flex';
-            row.style.justifyContent = 'space-between';
-            row.innerHTML = `<span>${labels[k]}</span><span style="color:var(--cyan)">${v}</span>`;
-            featDiv.appendChild(row);
-          }
-        });
-      }
-    }
-
-    const list = document.getElementById('predictionList');
-    const placeholder = list.querySelector('div[style]');
-    if (placeholder) placeholder.remove();
-
-    const isMalware = label.toUpperCase() === 'MALWARE';
-    const now = new Date().toLocaleTimeString('en-US', { hour12: false });
-    const description = isMalware
-        ? "Warning: Ransomware-like behavior detected! Multiple suspicious file modifications and high entropy writes observed."
-        : "System state appears normal. No immediate ransomware threats detected by the AI model.";
-
-    const item = document.createElement('div');
-    item.className = `prediction-item ${isMalware ? 'malware' : ''}`;
-    item.style.flexDirection = 'column';
-    item.style.alignItems = 'flex-start';
-    item.innerHTML = `
-      <div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 8px;">
-        <div>
-          <div class="pred-label ${isMalware ? 'malware' : 'benign'}">${label.toUpperCase()}</div>
-          <div class="pred-time">${now}</div>
-        </div>
-        <div style="text-align:right">
-          <div class="pred-conf">${confidence}% confidence</div>
-          <div style="margin-top:6px">
-            <div style="width:80px;height:3px;background:var(--border);border-radius:2px;overflow:hidden">
-              <div style="height:100%;width:${confidence}%;background:${isMalware ? 'var(--red)' : 'var(--green)'};border-radius:2px;transition:width 0.5s"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div style="font-size: 11px; color: var(--text); line-height: 1.4; border-top: 1px solid var(--border); width: 100%; margin-top: 4px; padding-top: 8px;">
-        ${description}
-      </div>
-    `;
-
-    list.insertBefore(item, list.firstChild);
-    while (list.children.length > 20) list.removeChild(list.lastChild);
-
-    // Update banner
-    const threatLevel = isMalware ? (confidence > 80 ? 'high' : 'medium') : 'low';
-    setThreatLevel(threatLevel, label.toUpperCase(), confidence);
-  }
-
-  // ── ADD ENTROPY FILE ───────────────────────────────────────────
-  function addEntropyFile(filename, entropy) {
-    const display = document.getElementById('entropyDisplay');
-    const placeholder = display.querySelector('div[style]');
-    if (placeholder) placeholder.remove();
-
-    const pct = (entropy / 8) * 100;
-    const color = entropy > 7.5 ? 'var(--red)' : entropy > 7.0 ? 'var(--yellow)' : 'var(--green)';
-    const shortName = filename.split('\\').pop().split('/').pop();
-
-    const item = document.createElement('div');
-    item.className = 'entropy-bar-item';
-    item.innerHTML = `
-      <div class="entropy-filename" title="${filename}">${shortName}</div>
-      <div class="entropy-track">
-        <div class="entropy-fill" style="width:${pct}%;background:${color};box-shadow:0 0 8px ${color}"></div>
-      </div>
-      <div class="entropy-val" style="color:${color}">${entropy}</div>
-    `;
-
-    display.insertBefore(item, display.firstChild);
-    while (display.children.length > 15) display.removeChild(display.lastChild);
-  }
-
-  // ── UPDATE PROCESSES ───────────────────────────────────────────
-  function updateProcesses(processes) {
-    const list = document.getElementById('processList');
-    const placeholder = list.querySelector('div[style]');
-    if (placeholder) placeholder.remove();
-
-    list.innerHTML = '';
-    document.getElementById('procCount').textContent = processes.length + ' ACTIVE';
-
-    processes.forEach(proc => {
-      const item = document.createElement('div');
-      item.className = `process-item ${proc.suspicious ? 'suspicious' : ''}`;
-      item.innerHTML = `
-        <div class="proc-name">${proc.name}</div>
-        <div class="proc-tag ${proc.suspicious ? 'suspicious' : 'safe'}">${proc.suspicious ? 'SUSPICIOUS' : 'SAFE'}</div>
-      `;
-      list.appendChild(item);
+    Object.entries(map).forEach(([key, id]) => {
+      const el = document.getElementById(id);
+      if (!el || features[key] === undefined) return;
+      const raw = features[key];
+      el.textContent = Number.isInteger(raw) ? raw : parseFloat(raw).toFixed(4);
+      el.className = 'feat-val';
+      if (key === 'rename_count'         && raw > 20)  el.classList.add('hot');
+      if (key === 'suspicious_ext_count' && raw > 10)  el.classList.add('hot');
+      if (key === 'rename_ratio'         && raw > 0.5) el.classList.add('hot');
+      if (key === 'delete_ratio'         && raw > 0.3) el.classList.add('warm');
+      if (key === 'max_entropy'          && raw > 7.2) el.classList.add('warm');
+      if (key === 'max_entropy'          && raw > 7.8) { el.classList.remove('warm'); el.classList.add('hot'); }
+      if (key === 'high_entropy_ratio'   && raw > 0.1) el.classList.add('warm');
+      if (key === 'file_events_per_sec'  && raw > 50)  el.classList.add('warm');
+      if (key === 'file_events_per_sec'  && raw > 100) { el.classList.remove('warm'); el.classList.add('hot'); }
     });
   }
 
-  function updateStats(stats) {
-    if (!stats) return;
+  const list = document.getElementById('predictionList');
+  const ph   = list.querySelector('div[style]');
+  if (ph) ph.remove();
 
-    // Sync local state with backend stats
-    state.totalAlerts = stats.total_alerts || 0;
-    state.entropyFiles = stats.high_entropy_files || 0;
-    state.renames = stats.suspicious_renames || 0;
-    state.aiScans = (stats.ransomware_predictions || 0) + (stats.benign_predictions || 0);
+  const isMalware  = label.toUpperCase() === 'RANSOMWARE';
+  const now        = new Date().toLocaleTimeString('en-US', { hour12: false });
+  const confStr    = parseFloat(confidence).toFixed(2);
+  const famConfStr = parseFloat(familyConf || 0).toFixed(2);
+  const showFam    = isMalware && family && family !== 'Unknown' && family !== 'Benign';
 
-    // Update UI counters
-    document.getElementById('statAlerts').textContent = state.totalAlerts;
-    document.getElementById('alertCount').textContent = state.totalAlerts + ' EVENTS';
-    document.getElementById('statEntropy').textContent = state.entropyFiles;
-    document.getElementById('statRenames').textContent = state.renames;
-    document.getElementById('statScans').textContent = state.aiScans;
+  const item = document.createElement('div');
+  item.className = `prediction-item ${isMalware ? 'malware' : ''}`;
+  item.innerHTML = `
+    <div class="pred-header">
+      <div>
+        <div class="pred-label ${isMalware ? 'malware' : 'benign'}">${label.toUpperCase()}</div>
+        <div class="pred-time">${now}</div>
+      </div>
+      <div style="text-align:right">
+        <div class="pred-conf">${confStr}% confidence</div>
+        <div style="margin-top:5px;width:80px;height:3px;background:var(--border);border-radius:2px;overflow:hidden;margin-left:auto">
+          <div style="height:100%;width:${confStr}%;background:${isMalware ? 'var(--red)' : 'var(--green)'};border-radius:2px"></div>
+        </div>
+      </div>
+    </div>
+    ${showFam ? `<div class="pred-family show"><span style="font-size:11px">🔍</span><span class="pred-family-name">${family.toUpperCase()}</span><span class="pred-family-conf">${famConfStr}%</span></div>` : ''}
+    <div class="pred-desc">${isMalware
+      ? `⚠ Ransomware behavioral pattern detected.${showFam ? ' Identified as ' + family + ' variant.' : ''} Immediate investigation recommended.`
+      : '✓ Activity within normal parameters. No ransomware indicators detected.'}</div>
+  `;
+  list.insertBefore(item, list.firstChild);
+  while (list.children.length > 20) list.removeChild(list.lastChild);
 
-    updateThreatLevel();
-  }
+  setThreatLevel(
+    isMalware ? (parseFloat(confidence) > 80 ? 'high' : 'medium') : 'low',
+    label.toUpperCase(), confStr, family, famConfStr
+  );
+}
 
-  function updateThreatLevel() {
-    let level = 'low';
-    if (state.renames > 5 || state.entropyFiles > 3) level = 'medium';
-    if (state.renames > 20 || state.entropyFiles > 8) level = 'high';
+// Entropy file
+function addEntropyFile(filename, entropy) {
+  const display = document.getElementById('entropyDisplay');
+  const ph = display.querySelector('div[style]');
+  if (ph) ph.remove();
+  const pct   = (parseFloat(entropy) / 8) * 100;
+  const color = entropy > 7.5 ? 'var(--red)' : entropy > 7.0 ? 'var(--yellow)' : 'var(--green)';
+  const name  = filename.split('\\').pop().split('/').pop();
+  const item = document.createElement('div');
+  item.className = 'entropy-bar-item';
+  item.innerHTML = `<div class="entropy-filename" title="${filename}">${name}</div><div class="entropy-track"><div class="entropy-fill" style="width:${pct}%;background:${color};box-shadow:0 0 8px ${color}"></div></div><div class="entropy-val" style="color:${color}">${parseFloat(entropy).toFixed(4)}</div>`;
+  display.insertBefore(item, display.firstChild);
+  while (display.children.length > 15) display.removeChild(display.lastChild);
+}
 
-    const banner = document.getElementById('threatBanner');
-    const text = document.getElementById('threatLevelText');
-    banner.className = 'threat-banner ' + level;
-    text.textContent = level.toUpperCase();
-    state.threatLevel = level;
-  }
+// Processes
+function updateProcesses(processes) {
+  const list = document.getElementById('processList');
+  list.innerHTML = '';
+  document.getElementById('procCount').textContent = processes.length + ' ACTIVE';
+  processes.forEach(proc => {
+    const item = document.createElement('div');
+    item.className = `process-item ${proc.suspicious ? 'suspicious' : ''}`;
+    item.innerHTML = `<div class="proc-info"><div class="proc-name">${proc.name}</div><div class="proc-cpu">${(proc.cpu || 0).toFixed(1)}% CPU</div></div><div class="proc-tag ${proc.suspicious ? 'suspicious' : 'safe'}">${proc.suspicious ? '⚠ SUSPICIOUS' : 'SAFE'}</div>`;
+    list.appendChild(item);
+  });
+}
 
-  // ── WEBSOCKET CONNECTION ───────────────────────────────────────
-  let ws;
-  function connect() {
-    const wsHost = window.location.hostname || 'localhost';
-    console.log(`Connecting to WebSocket at ws://${wsHost}:8765...`);
-    ws = new WebSocket(`ws://${wsHost}:8765`);
+function updateStats(stats) {
+  if (!stats) return;
+  state.totalAlerts  = stats.total_alerts       || 0;
+  state.entropyFiles = stats.high_entropy_files || 0;
+  state.renames      = stats.suspicious_renames || 0;
+  state.aiScans      = (stats.ransomware_predictions || 0) + (stats.benign_predictions || 0);
+  document.getElementById('statAlerts').textContent  = state.totalAlerts;
+  document.getElementById('alertCount').textContent  = state.totalAlerts + ' EVENTS';
+  document.getElementById('statEntropy').textContent = state.entropyFiles;
+  document.getElementById('statRenames').textContent = state.renames;
+  document.getElementById('statScans').textContent   = state.aiScans;
+  updateThreatFromStats();
+}
 
-    ws.onopen = () => {
-      console.log('Connected to SENTINEL backend');
-      document.getElementById('statusText').textContent = 'MONITORING ACTIVE';
-      document.getElementById('statusText').style.color = '#00ff88';
-      document.getElementById('statusDot').style.background = '#00ff88';
-      document.getElementById('statusDot').style.boxShadow = 'var(--glow-green)';
-    };
+function updateThreatFromStats() {
+  const now = Date.now();
+  if (now - state.lastHighThreatTime < 15000) return;
+  let lvl = 'low';
+  if (state.renames > 5  || state.entropyFiles > 3) lvl = 'medium';
+  if (state.renames > 20 || state.entropyFiles > 8) lvl = 'high';
+  document.getElementById('threatBanner').className      = 'threat-banner ' + lvl;
+  document.getElementById('threatLevelText').textContent = lvl.toUpperCase();
+  state.threatLevel = lvl;
+}
 
-    ws.onmessage = (event) => {
+// WebSocket
+let ws;
+function connect() {
+  const host = window.location.hostname || 'localhost';
+  ws = new WebSocket(`ws://${host}:8765`);
+  ws.onopen = () => {
+    document.getElementById('statusText').textContent = 'MONITORING ACTIVE';
+    document.getElementById('statusText').style.color = '#00ff88';
+    document.getElementById('statusDot').style.background  = '#00ff88';
+    document.getElementById('statusDot').style.boxShadow   = 'var(--glow-green)';
+  };
+  ws.onmessage = (event) => {
+    try {
       const data = JSON.parse(event.data);
-      if (data.type === 'alert' || data.type === 'entropy') {
-        alertQueue.push(data);
-      }
-      if (data.type === 'prediction') addPrediction(data.label, data.confidence, data.features);
-      if (data.type === 'process') updateProcesses(data.processes);
-      if (data.type === 'stats') updateStats(data.stats);
-    };
-
-    ws.onclose = (e) => {
-      console.log('Disconnected from SENTINEL backend. Retrying in 2s...', e.reason);
-      document.getElementById('statusText').textContent = 'CONNECTION LOST - RETRYING';
-      document.getElementById('statusText').style.color = '#ff2052';
-      document.getElementById('statusDot').style.background = '#ff2052';
-      document.getElementById('statusDot').style.boxShadow = 'var(--glow-red)';
-      setTimeout(connect, 2000);
-    };
-
-    ws.onerror = (err) => {
-      console.error('WebSocket Error:', err);
-      // ws.close() will trigger onclose and reconnection
-      ws.close();
-    };
-  }
-
-  connect();
+      if (data.type === 'alert' || data.type === 'entropy') alertQueue.push(data);
+      if (data.type === 'prediction') addPrediction(data.label, data.confidence, data.ransomware_probability || 0, data.features || null, data.family || 'Unknown', data.family_confidence || 0);
+      if (data.type === 'process')   updateProcesses(data.processes);
+      if (data.type === 'stats')     updateStats(data.stats);
+      if (data.type === 'killchain') addAlert('killchain', `Kill chain: ${(data.sequence || []).join(' → ')} | ${(parseFloat(data.confidence || 0) * 100).toFixed(1)}% confidence`);
+      if (data.type === 'mft')       addAlert('mft', `${data.process} — ${data.read_rate} metadata reads/sec`);
+    } catch(e) { console.error('Parse error:', e); }
+  };
+  ws.onclose = () => {
+    document.getElementById('statusText').textContent = 'CONNECTION LOST — RETRYING';
+    document.getElementById('statusText').style.color = '#ff2052';
+    document.getElementById('statusDot').style.background = '#ff2052';
+    document.getElementById('statusDot').style.boxShadow  = 'var(--glow-red)';
+    setTimeout(connect, 2000);
+  };
+  ws.onerror = () => ws.close();
+}
+connect();
 </script>
 </body>
 </html>

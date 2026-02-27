@@ -8,28 +8,24 @@ alert_queue = deque()
 current_stats = {}
 
 async def handler(websocket):
-    print(f"[*] New client connected: {websocket.remote_address}")
+    print(f"[WS] Client connected: {websocket.remote_address}")
     connected_clients.add(websocket)
 
-    # Send current stats to new client
+    # Send current stats immediately on connect
     if current_stats:
         try:
-            await websocket.send(json.dumps({
-                'type': 'stats',
-                'stats': current_stats
-            }))
-        except Exception as e:
-            print(f"[!] Error sending initial stats: {e}")
+            await websocket.send(json.dumps({'type': 'stats', 'stats': current_stats}))
+        except Exception:
+            pass
 
     try:
         await websocket.wait_closed()
-    except Exception as e:
-        print(f"[!] WebSocket error: {e}")
     finally:
         connected_clients.discard(websocket)
-        print(f"[*] Client disconnected: {websocket.remote_address}")
+        print(f"[WS] Client disconnected: {websocket.remote_address}")
 
 async def queue_alert(data: dict):
+    """Called from main.py to broadcast any event to dashboard."""
     if data.get('type') == 'stats':
         global current_stats
         current_stats = data.get('stats', {})
@@ -40,26 +36,41 @@ async def process_queue():
         while alert_queue and connected_clients:
             data = alert_queue.popleft()
             message = json.dumps(data)
-            # Send to all connected clients
-            results = await asyncio.gather(
-                *[c.send(message) for c in connected_clients],
-                return_exceptions=True
-            )
-            for res in results:
-                if isinstance(res, Exception):
-                    print(f"[!] Broadcast error: {res}")
-                else:
-                    print(f"[*] Broadcast message: {data.get('type')} to {len(results)} clients")
-        await asyncio.sleep(0.1)
+
+            # Copy set to avoid mutation during iteration
+            dead = set()
+            for client in connected_clients.copy():
+                try:
+                    await client.send(message)
+                except websockets.exceptions.ConnectionClosed:
+                    dead.add(client)
+                except Exception as e:
+                    print(f"[WS] Send error: {e}")
+                    dead.add(client)
+
+            # Clean up dead connections
+            for client in dead:
+                connected_clients.discard(client)
+
+        await asyncio.sleep(0.05)
 
 async def start_server():
-    print("[*] Starting WebSocket server on 0.0.0.0:8765")
+    print("[WS] Starting WebSocket server on ws://localhost:8765")
     try:
-        # Using reuse_address to help with quick restarts
-        async with websockets.serve(handler, "0.0.0.0", 8765, reuse_address=True):
-            print("[*] WebSocket server is running")
+        async with websockets.serve(
+            handler, "0.0.0.0", 8765,
+            reuse_address=True,
+            ping_interval=20,     # keep-alive ping every 20s
+            ping_timeout=10       # drop client if no pong in 10s
+        ):
+            print("[WS] Server running — open dashboard.html in browser")
             asyncio.create_task(process_queue())
             await asyncio.Future()
+    except OSError as e:
+        print(f"[WS] Port 8765 already in use. Kill the old process first:")
+        print(f"      netstat -ano | findstr :8765")
+        print(f"      taskkill /PID <pid> /F")
+        raise
     except Exception as e:
-        print(f"[!!!] Could not start WebSocket server: {e}")
+        print(f"[WS] Server error: {e}")
         raise
