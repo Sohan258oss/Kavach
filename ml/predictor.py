@@ -1,106 +1,113 @@
+"""
+predictor.py — ML inference for Project Kavach (Sentinel).
+
+Loads the binary and family models, runs predictions against incoming
+feature vectors.  All constants imported from config.py.
+"""
+
 import pickle
 import os
+from typing import Dict, List, Any, Union
+
 import numpy as np
 import pandas as pd
 
-# ── Load binary model and encoder ──────────────────────────────────────────────
-BASE_DIR     = os.path.dirname(os.path.abspath(__file__))
-model_path   = os.path.join(BASE_DIR, 'model.pkl')
-encoder_path = os.path.join(BASE_DIR, 'encoder.pkl')
+from config import (
+    MODEL_PATH,
+    ENCODER_PATH,
+    FAMILY_MODEL_PATH,
+    FAMILY_ENCODER_PATH,
+    FEATURES,
+    CONFIDENCE_THRESHOLD,
+    HIGH_CONFIDENCE_THRESHOLD,
+)
+from logging_utils import get_logger
 
+logger = get_logger('predictor')
+
+# ── Load binary model + encoder ───────────────────────────────────────────────
 try:
-    with open(model_path, 'rb') as f:
+    with open(MODEL_PATH, 'rb') as f:
         model = pickle.load(f)
-    with open(encoder_path, 'rb') as f:
+    with open(ENCODER_PATH, 'rb') as f:
         encoder = pickle.load(f)
-    print("[AI] Binary model loaded successfully")
-    print(f"[AI] Known labels: {encoder.classes_}")
+    logger.info("Binary model loaded — labels: %s", encoder.classes_)
 except FileNotFoundError:
-    raise RuntimeError("Model not found. Run: python retrain.py first")
+    raise RuntimeError("Model not found.  Run: python retrain.py first")
 
-# ── Load family model ──────────────────────────────────────────────────────────
-family_model_path   = os.path.join(BASE_DIR, 'model_family.pkl')
-family_encoder_path = os.path.join(BASE_DIR, 'encoder_family.pkl')
-
+# ── Load family model (optional) ─────────────────────────────────────────────
 try:
-    with open(family_model_path, 'rb') as f:
+    with open(FAMILY_MODEL_PATH, 'rb') as f:
         family_model = pickle.load(f)
-    with open(family_encoder_path, 'rb') as f:
+    with open(FAMILY_ENCODER_PATH, 'rb') as f:
         family_encoder = pickle.load(f)
-    print("[AI] Family model loaded successfully")
-    print(f"[AI] Known families: {family_encoder.classes_}")
+    logger.info("Family model loaded — families: %s", family_encoder.classes_)
 except FileNotFoundError:
-    family_model   = None
+    family_model = None
     family_encoder = None
-    print("[AI] Family model not found — run retrain.py")
+    logger.warning("Family model not found — run retrain.py")
 
-# ── Features — must match retrain.py and feature_extractor.py exactly ──────────
-FEATURES = [
-    'file_events_per_sec',
-    'rename_count',
-    'delete_count',
-    'create_count',
-    'avg_entropy',
-    'max_entropy',
-    'high_entropy_ratio',
-    'avg_cpu',
-    'avg_open_files',
-    'suspicious_ext_count',
-    'unique_extensions',
-    'rename_ratio',
-    'delete_ratio'
-]
 
-CONFIDENCE_THRESHOLD = 55.0
-
-def predict(features: dict) -> dict:
+def predict(features: Dict[str, Union[int, float]]) -> Dict[str, Any]:
     """
-    Takes a dict of behavioral features, returns prediction.
-    features: dict with keys matching FEATURES list
+    Run binary (+ optional family) prediction on a feature vector.
+
+    Args:
+        features: dict whose keys match ``config.FEATURES``.
+
+    Returns:
+        Dict with keys: label, confidence, ransomware_probability,
+        is_ransomware, high_confidence, threshold_used, family,
+        family_confidence.
     """
-    # ── Warn about missing features ──
-    missing = [f for f in FEATURES if f not in features]
+    missing: List[str] = [f for f in FEATURES if f not in features]
     if missing:
-        print(f"[AI WARNING] Missing features defaulting to 0: {missing}")
+        logger.warning("Missing features (defaulting to 0): %s", missing)
 
-    # ── Build input vector ──
     values = [features.get(f, 0) for f in FEATURES]
-    X      = pd.DataFrame([values], columns=FEATURES)
+    X: pd.DataFrame = pd.DataFrame([values], columns=FEATURES)
 
-    # ── Binary prediction ──
-    prediction  = model.predict(X)[0]
-    probability = model.predict_proba(X)[0]
+    # ── Binary prediction ─────────────────────────────────────────────────
+    prediction: int = int(model.predict(X)[0])
+    probability: np.ndarray = model.predict_proba(X)[0]
 
-    label           = encoder.inverse_transform([prediction])[0]
-    confidence      = round(max(probability) * 100, 2)
-    ransomware_prob = round(probability[1] * 100, 2)
-    is_ransomware   = (label == 'Ransomware') and (confidence >= CONFIDENCE_THRESHOLD)
+    label: str = encoder.inverse_transform([prediction])[0]
+    confidence: float = round(float(max(probability)) * 100, 2)
+    ransomware_prob: float = round(float(probability[1]) * 100, 2)
+    is_ransomware: bool = (
+        label == 'Ransomware' and confidence >= CONFIDENCE_THRESHOLD
+    )
 
-    # ── Family prediction (only if ransomware detected) ──
-    family_label      = 'Unknown'
-    family_confidence = 0.0
+    # ── Family prediction (only when ransomware detected) ─────────────────
+    family_label: str = 'Unknown'
+    family_confidence: float = 0.0
 
-    if is_ransomware and family_model and family_encoder:
-        fam_pred          = family_model.predict(X)[0]
-        fam_prob          = family_model.predict_proba(X)[0]
-        family_label      = family_encoder.inverse_transform([fam_pred])[0]
-        family_confidence = round(max(fam_prob) * 100, 2)
+    if is_ransomware and family_model is not None and family_encoder is not None:
+        fam_pred: int = int(family_model.predict(X)[0])
+        fam_prob: np.ndarray = family_model.predict_proba(X)[0]
+        family_label = family_encoder.inverse_transform([fam_pred])[0]
+        family_confidence = round(float(max(fam_prob)) * 100, 2)
 
-    # ── Console output ──
+    # ── Structured log ────────────────────────────────────────────────────
     if label == 'Ransomware':
-        print(f"[AI] 🚨 RANSOMWARE DETECTED — {confidence}% confidence")
-        if family_label != 'Unknown' and family_label != 'Benign':
-            print(f"[AI] 🔍 Family: {family_label} — {family_confidence}% confidence")
+        logger.warning(
+            "\U0001f6a8 RANSOMWARE DETECTED — %.1f%% confidence", confidence,
+        )
+        if family_label not in ('Unknown', 'Benign'):
+            logger.warning(
+                "\U0001f50d Family: %s — %.1f%% confidence",
+                family_label, family_confidence,
+            )
     else:
-        print(f"[AI] ✅ Benign — {confidence}% confidence")
+        logger.info("\u2705 Benign — %.1f%% confidence", confidence)
 
     return {
-        'label':              label,
-        'confidence':         confidence,
+        'label':                  label,
+        'confidence':             confidence,
         'ransomware_probability': ransomware_prob,
-        'is_ransomware':      is_ransomware,
-        'high_confidence':    confidence >= 90.0,
-        'threshold_used':     CONFIDENCE_THRESHOLD,
-        'family':             family_label,
-        'family_confidence':  family_confidence
+        'is_ransomware':          is_ransomware,
+        'high_confidence':        confidence >= HIGH_CONFIDENCE_THRESHOLD,
+        'threshold_used':         CONFIDENCE_THRESHOLD,
+        'family':                 family_label,
+        'family_confidence':      family_confidence,
     }
