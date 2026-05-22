@@ -593,10 +593,27 @@ function updateThreatFromStats() {
 
 // WebSocket
 let ws;
+const urlParams = new URLSearchParams(window.location.search);
+let token = urlParams.get('token') || localStorage.getItem('sentinel_jwt');
+
 function connect() {
+  if (!token) {
+    token = prompt("Enter Dashboard JWT Token:");
+    if (token) {
+      localStorage.setItem('sentinel_jwt', token);
+      // update URL without reloading
+      const url = new URL(window.location);
+      url.searchParams.set('token', token);
+      window.history.pushState({}, '', url);
+    }
+  }
+
   const host = window.location.hostname || 'localhost';
   ws = new WebSocket(`ws://${host}:8765`);
   ws.onopen = () => {
+    if (token) {
+      ws.send(JSON.stringify({ type: 'auth', token: token }));
+    }
     document.getElementById('statusText').textContent = 'MONITORING ACTIVE';
     document.getElementById('statusText').style.color = '#00ff88';
     document.getElementById('statusDot').style.background  = '#00ff88';
