@@ -26,7 +26,7 @@
 2026-04-17 20:57:00 [INFO]     sentinel.process_monitor: WMI event-driven process monitor started
 2026-04-17 20:57:00 [ERROR]    sentinel.process_monitor: WMI failed (<x_wmi: Unexpected COM Error (-2147352567, 'Exception occurred.', (0, 'SWbemServicesEx', 'Access denied ', None, 0, -2147217405), None)>) — falling back to polling
 2026-04-17 20:57:00 [INFO]     sentinel.process_monitor: Polling-based process monitor started (non-Windows fallback)
-2026-04-17 20:57:59 [INFO]     sentinel.main: 
+2026-04-17 20:57:59 [INFO]     sentinel.main:
 ╔══════════════════════════════════════════╗
 ║        THREAT SUMMARY DASHBOARD          ║
 ╠══════════════════════════════════════════╣
@@ -38,7 +38,7 @@
 ║  Processes Killed  : 0                    ║
 ║  Suspicious Renames: 0                    ║
 ╚══════════════════════════════════════════╝
-2026-04-17 20:58:59 [INFO]     sentinel.main: 
+2026-04-17 20:58:59 [INFO]     sentinel.main:
 ╔══════════════════════════════════════════╗
 ║        THREAT SUMMARY DASHBOARD          ║
 ╠══════════════════════════════════════════╣
@@ -50,7 +50,7 @@
 ║  Processes Killed  : 0                    ║
 ║  Suspicious Renames: 0                    ║
 ╚══════════════════════════════════════════╝
-2026-04-17 20:59:59 [INFO]     sentinel.main: 
+2026-04-17 20:59:59 [INFO]     sentinel.main:
 ╔══════════════════════════════════════════╗
 ║        THREAT SUMMARY DASHBOARD          ║
 ╠══════════════════════════════════════════╣
@@ -62,7 +62,7 @@
 ║  Processes Killed  : 0                    ║
 ║  Suspicious Renames: 0                    ║
 ╚══════════════════════════════════════════╝
-2026-04-17 21:00:59 [INFO]     sentinel.main: 
+2026-04-17 21:00:59 [INFO]     sentinel.main:
 ╔══════════════════════════════════════════╗
 ║        THREAT SUMMARY DASHBOARD          ║
 ╠══════════════════════════════════════════╣
@@ -74,7 +74,7 @@
 ║  Processes Killed  : 0                    ║
 ║  Suspicious Renames: 0                    ║
 ╚══════════════════════════════════════════╝
-2026-04-17 21:01:59 [INFO]     sentinel.main: 
+2026-04-17 21:01:59 [INFO]     sentinel.main:
 ╔══════════════════════════════════════════╗
 ║        THREAT SUMMARY DASHBOARD          ║
 ╠══════════════════════════════════════════╣
@@ -86,7 +86,7 @@
 ║  Processes Killed  : 0                    ║
 ║  Suspicious Renames: 0                    ║
 ╚══════════════════════════════════════════╝
-2026-04-17 21:02:59 [INFO]     sentinel.main: 
+2026-04-17 21:02:59 [INFO]     sentinel.main:
 ╔══════════════════════════════════════════╗
 ║        THREAT SUMMARY DASHBOARD          ║
 ╠══════════════════════════════════════════╣
@@ -98,7 +98,7 @@
 ║  Processes Killed  : 0                    ║
 ║  Suspicious Renames: 0                    ║
 ╚══════════════════════════════════════════╝
-2026-04-17 21:03:59 [INFO]     sentinel.main: 
+2026-04-17 21:03:59 [INFO]     sentinel.main:
 ╔══════════════════════════════════════════╗
 ║        THREAT SUMMARY DASHBOARD          ║
 ╠══════════════════════════════════════════╣
@@ -110,7 +110,7 @@
 ║  Processes Killed  : 0                    ║
 ║  Suspicious Renames: 0                    ║
 ╚══════════════════════════════════════════╝
-2026-04-17 21:04:59 [INFO]     sentinel.main: 
+2026-04-17 21:04:59 [INFO]     sentinel.main:
 ╔══════════════════════════════════════════╗
 ║        THREAT SUMMARY DASHBOARD          ║
 ╠══════════════════════════════════════════╣
