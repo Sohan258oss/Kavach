@@ -375,10 +375,12 @@ updateClock();
 
 // Drain queue
 setInterval(() => {
-  for (let i = 0; i < 3 && alertQueue.length > 0; i++) {
+  for (let i = 0; i < 50 && alertQueue.length > 0; i++) {
     const d = alertQueue.shift();
     if (d.type === 'alert')   addAlert(d.alertType, d.message);
     if (d.type === 'entropy') addEntropyFile(d.filename, d.entropy);
+    if (d.type === 'killchain') addAlert('killchain', d.message);
+    if (d.type === 'mft') addAlert('mft', d.message);
   }
 }, 900);
 
@@ -622,7 +624,7 @@ function connect() {
   ws.onmessage = (event) => {
     try {
       const data = JSON.parse(event.data);
-      if (data.type === 'alert' || data.type === 'entropy') alertQueue.push(data);
+      if (data.type === 'alert' || data.type === 'entropy' || data.type === 'killchain' || data.type === 'mft') alertQueue.push(data);
       if (data.type === 'prediction') addPrediction(data.label, data.confidence, data.ransomware_probability || 0, data.features || null, data.family || 'Unknown', data.family_confidence || 0);
       if (data.type === 'process')   updateProcesses(data.processes);
       if (data.type === 'stats')     updateStats(data.stats);
